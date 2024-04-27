@@ -62,11 +62,11 @@ Master:
 Undergraduate: 
 
 
-[Research projects](/projects/) 
+[Research projects](/dhlab/projects/) 
+[(Full Publication List)](/dhlab/publications/) |
 
+# <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
 
-# <i class="fa fa-seedling fa-fw"></i>&nbsp;News
-
-| Time  | Event &nbsp; [(Full Publication List)](/publications/) |
+| Time  | Event &nbsp; [(Full News)](/dhlab/news/) |
 |-------|-------|
 |2024.04| to be updated.|
