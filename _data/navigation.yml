@@ -1,0 +1,24 @@
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Group"
+    url: /group/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Biography"
+    url: /bio/
+
+
+homepage:
+  - title: HOME
+    children:
+      - title: "About Me"
+        url: /index.html#about-me
+      - title: "Research Lab"
+        url: /index.html#research-lab
+      - title: "News"
+        url: /index.html#news
+      - title: "Teaching"
+        url: /index.html#teaching
