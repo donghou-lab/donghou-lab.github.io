@@ -7,6 +7,8 @@ main:
     url: /group/
   - title: "Teaching"
     url: /teaching/
+  - title: "News Archives"
+    url: /news/
   - title: "Biography"
     url: /bio/
 
@@ -18,7 +20,5 @@ homepage:
         url: /index.html#about-me
       - title: "Research Lab"
         url: /index.html#research-lab
-      - title: "News"
+      - title: "Brief News"
         url: /index.html#news
-      - title: "Teaching"
-        url: /index.html#teaching
