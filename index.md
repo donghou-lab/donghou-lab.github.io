@@ -51,19 +51,11 @@ My research interests include energy science, advanced characterization, and cer
 
 For ***DHLab***, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).
 
-Our lab members:
-
-Alumni:
-
-PhD:
-
-Master:
-
-Undergraduate: 
-
+[Our lab members](/dhlab/group/)
 
 [Research projects](/dhlab/projects/) 
-[(Full Publication List)](/dhlab/publications/) |
+
+[Publication list](/dhlab/publications/) 
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
 
