@@ -69,10 +69,4 @@ Undergraduate:
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
-|2024.04| |
-
-
-<br>
-# <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
-
-+ MSE 3010 Materials Characterization Laboratory (Fall 2024)
+|2024.04| to be updated.|
