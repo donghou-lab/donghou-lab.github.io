@@ -43,9 +43,11 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 
 # <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
 
-I received my Ph.D. from North Carolina State University in 2017, and my Bachelor degree from Central South University in 2013. I visited Monash University From Dec. 2012 to May. 2013.
+I received my Ph.D. from North Carolina State University in 2017, and my Bachelor degree from Central South University in 2013. I visited Monash University From Dec. 2012 to May. 2013. [More about me](/dhlab/bio/)
 
 My research interests include energy science, advanced characterization, and ceramics manufacturing.
+
+I love teaching. [Couses and Outreach](/dhlab/teaching/)
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
 
