@@ -12,7 +12,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.13.0"
 
 # Site Settings
 locale                   : "en"
-title                    : "Dong Hou's Homepage"
+title                    : "Dong Hou's Lab"
 title_separator          : "-"
 name                     : "Dong Hou"
 description              : "Group Website of Dong Hou's Lab"

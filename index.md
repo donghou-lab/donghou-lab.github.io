@@ -9,16 +9,16 @@ sidebar:
 
 feature_row:
   - image_path: /assets/images/Dong_Hou_Profile.jpg
-    alt: "Dong Hou"
     title: "Dong Hou"
     excerpt: "
     Assistant Professor<br>
     [Deparment of Materials Science and Engineering](https://www.clemson.edu/cecas/departments/mse/index.html)<br>
+    [College of Engineering, Computing, and Applied Sciences (CECAS)](https://www.clemson.edu/cecas/index.html)<br>
     Clemson University<br>
     161 Sirrine Hall<br>
     Clemson, SC 29634-0971<br>
     Phone: +1 (864) 656-1946<br>
-    [Email Me](mailto:hou4@clemson.edu){: .btn .btn--inverse} &nbsp;
+    [Email Me](mailto:hou4 at clemson.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
 
