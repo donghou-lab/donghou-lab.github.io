@@ -1,17 +1,10 @@
 ---
 title: "Teaching"
-layout: "splash"
-
+layout: "splash
 ---
 
-## Teaching
-
+### Teaching
 + MSE 3010 Materials Characterization Laboratory (Fall 2024)
 
-
----
-
-## Summer Program
-
+### Summer Program
 + to be updated
----

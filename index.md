@@ -21,7 +21,6 @@ feature_row:
     [Email Me](mailto:hou4 at clemson.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
-
 ---
 
 {% comment %}

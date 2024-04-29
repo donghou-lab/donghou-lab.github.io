@@ -16,7 +16,7 @@ layout: splash
    
 ---
 
-## Group Photo Gallery
+### Group Photo Gallery
 
 **2024 Spring**
 {% include gallery id="2024spring" caption=" Conference Travel at ACS 2024 Spring, New Orleans. Photos: at NOLA" %}
