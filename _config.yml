@@ -17,7 +17,7 @@ title_separator          : "-"
 name                     : "Dong Hou"
 description              : "Group Website of Dong Hou's Lab"
 url                      : "https://donghou-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository               : "donghou-lab/dhlab" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "donghou-lab/donghou-lab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/datacenter.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
