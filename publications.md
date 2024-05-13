@@ -2,20 +2,17 @@
 title: "Publications"
 layout: splash
 ---
-
-### Top five picks
-(update periodically)
-
+<!-- ### Journal Covers
+### After Joining Clemson
+ -->
+**Top five picks** (update periodically)
 + **Hou D**, Liu J, Xu Z, Yang Z, Xiao X, Lin F (2023) Cross-length-scale investigation reveals the spatial thermo-chemical dynamics hidden in Ni-rich layered Li-ion cathodes. _Matter_, 7(2):640–654. <https://doi.org/10.1016/j.matt.2023.11.025>
 + **Hou D**, Han J, Geng C, Xu Z, AlMarzooqi MM, Zhang J, Yang Z, Min J, Xiao X, Borkiewicz O, Wiaderek K, Liu Y, Zhao K, Lin F (2022) Surface coating by mechanofusion modulates bulk charging pathways and battery performance of Ni-rich layered cathodes. _Proceedings of the National Academy of Sciences (PNAS)_, 119(49) <https://doi.org/10.1073/pnas.2212802119>
 + Li J, Sharma N, Jiang Z, Yang Y, Monaco F, Xu Z, **Hou D**, Ratner D, Pianetta P, Cloetens P, Lin F, Zhao K, Liu Y (2022) Dynamics of particle network in composite battery cathodes. _Science_, 376(6592) <https://doi.org/10.1126/science.abm8962>
 + **Hou D**, Xu Z, Yang Z, Kuai C, Du Z, Sun C-J, Ren Y, Liu J, Xiao X, Lin F (2022) Effect of the grain arrangements on the thermal stability of polycrystalline nickel-rich lithium-based battery cathodes. _Nature Communications_, 13(1) <https://doi.org/10.1038/s41467-022-30935-y>
 + Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, **Hou D**, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. _Nature Communications_, 6 <https://doi.org/10.1038/ncomms9485>
 
-
-### Publications
-(† for co-first authors, \* for corresponding authors)
-
+**Publications** († for co-first authors, \* for corresponding authors)
 1. Zhang Y, Hu A, **Hou D**, Kwon G, Xia D, Li L, Lin F (2024) A Comparative Study of Degradation Behaviors of LiFePO<sub>4</sub>, LiMn<sub>2</sub>O<sub>4</sub>, and LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> in Different Aqueous Electrolytes. _Journal of The Electrochemical Society_, 171(2):020526. <https://doi.org/10.1149/1945-7111/ad24c0>
 1. Hu X, Zhao Z, Zhao Y, Wang X, Sainio S, Nordlund D, Ruse CM, Zhou X-D, Boettcher SW, **Hou D**,\* Hong Q-J,\* Mu L\* (2024) Interfacial degradation of the NMC/Li<sub>6</sub>PS<sub>5</sub>Cl composite cathode in all-solid-state batteries. _Journal of Materials Chemistry A_, 12(6):3700–3710. <https://doi.org/10.1039/D3TA06092F>
 1. **Hou D**, Liu J, Xu Z, Yang Z, Xiao X, Lin F (2023) Cross-length-scale investigation reveals the spatial thermo-chemical dynamics hidden in Ni-rich layered Li-ion cathodes. _Matter_, 7(2):640–654. <https://doi.org/10.1016/j.matt.2023.11.025>
@@ -33,10 +30,10 @@ layout: splash
 1. Johnson B, Fancher CM, **Hou D**, Jones JL (2019) Structure of HfO<sub>2</sub> modified with Y, Gd, and Zr at ambient conditions and high pressures. _Journal of Applied Physics_, 126(20) <https://doi.org/10.1063/1.5121024>
 1. Manjón-Sanz A, Culbertson CM, **Hou D**, Jones JL, Dolgos MR (2019) Total scattering and diffraction studies of lead-free piezoelectric (1-_x_)Ba(Zr<sub>0.2</sub>Ti<sub>0.8</sub>)O<sub>3</sub>\-_x_(Ba<sub>0.7</sub>Ca<sub>0.3</sub>)TiO<sub>3</sub> deconvolute intrinsic and extrinsic contributions to electromechanical. _Acta Materialia_, 171 <https://doi.org/10.1016/j.actamat.2019.04.005>
 1. **Hou D**,<sup>†</sup> Zhao C,<sup>†</sup> Paterson AR, Li S, Jones JL (2018) Local structures of perovskite dielectrics and ferroelectrics via pair distribution function analyses. _Journal of the European Ceramic Society_, 38(4) <https://doi.org/10.1016/j.jeurceramsoc.2017.12.003>
-1. Zhao C, **Hou D**, Chung C-C, Zhou H, Kynast A, Hennig E, Liu W, Li S, Jones JL (2018) Deconvolved intrinsic and extrinsic contributions to electrostrain in high performance, Nb-doped Pb(Zr_<sub>x</sub>_Ti<sub>1-</sub>_<sub>x</sub>_)O<sub>3</sub> piezoceramics (0.50≤_x_≤0.56). _Acta Materialia_, 158 <https://doi.org/10.1016/j.actamat.2018.08.006>
+1. Zhao C, **Hou D**, Chung C-C, Zhou H, Kynast A, Hennig E, Liu W, Li S, Jones JL (2018) Deconvolved intrinsic and extrinsic contributions to electrostrain in high performance, Nb-doped Pb(Zr<sub>x</sub>Ti<sub>1-x</sub>)O<sub>3</sub> piezoceramics (0.50≤_x_≤0.56). _Acta Materialia_, 158 <https://doi.org/10.1016/j.actamat.2018.08.006>
 1. **Hou D**, Usher T-M, Fulanovic L, Vrabelj M, Otonicar M, Ursic H, Malic B, Levin I, Jones JL (2018) Field-induced polarization rotation and phase transitions in 0.70Pb(Mg<sub>1/3</sub>Nb<sub>2/3</sub>)O<sub>3</sub>\-0.30PbTiO<sub>3</sub> piezoceramics observed by _in situ_ high-energy x-ray scattering. _Physical Review B_, 97(21) <https://doi.org/10.1103/PhysRevB.97.214102>
 1. Zhao C, **Hou D**, Chung C-C, Yu Y, Liu W, Li S, Jones JL (2017) Local structural behavior of PbZr<sub>0.5</sub>Ti<sub>0.5</sub>O<sub>3</sub> during electric field application via _in situ_ pair distribution function study. _Journal of Applied Physics_, 122(17) <https://doi.org/10.1063/1.5010192>
-1. **Hou D**, Usher T-M, Zhou H, Raengthon N, Triamnak N, Cann DP, Forrester JS, Jones JL (2017) Temperature-induced local and average structural changes in BaTiO<sub>3</sub>\-_x_Bi(Zn<sub>1/2</sub>Ti<sub>1/2</sub>)O<sub>3</sub> solid solutions: The origin of high temperature dielectric permittivity. _Journal of Applied Physics_, 122(6) <https://doi.org/10.1063/1.4989393>
+1. **Hou D**, Usher T-M, Zhou H, Raengthon N, Triamnak N, Cann DP, Forrester JS, Jones JL (2017) Temperature-induced local and average structural changes in BaTiO<sub>3</sub>\-xBi(Zn<sub>1/2</sub>Ti<sub>1/2</sub>)O<sub>3</sub> solid solutions: The origin of high temperature dielectric permittivity. _Journal of Applied Physics_, 122(6) <https://doi.org/10.1063/1.4989393>
 1. Huang S, Kim T, **Hou D**, Cann D, Jones JL, Jiang X (2017) Flexoelectric characterization of BaTiO<sub>3</sub>\-0.08Bi(Zn<sub>1/2</sub>Ti<sub>1/2</sub>)O<sub>3</sub>. _Applied Physics Letters_, 110(22) <https://doi.org/10.1063/1.4984212>
 1. **Hou D**, Aksel E, Fancher CM, Usher T-M, Hoshina T, Takeda H, Tsurumi T, Jones JL (2017) Formation of sodium bismuth titanate–barium titanate during solid-state synthesis. _Journal of the American Ceramic Society_, 100(4) <https://doi.org/10.1111/jace.14631>
 1. Zhao L, **Hou D**, Usher T-M, Iamsasri T, Fancher CM, Forrester JS, Nishida T, Moghaddam S, Jones JL (2015) Structure of 3 at.% and 9 at.% Si-doped HfO<sub>2</sub> from combined refinement of X-ray and neutron diffraction patterns. _Journal of Alloys and Compounds_, 646 <https://doi.org/10.1016/j.jallcom.2015.06.084>
