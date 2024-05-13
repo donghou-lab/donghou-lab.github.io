@@ -1,18 +1,18 @@
 main:
-  - title: "Publications"
-    url: /publications/
   - title: "Projects"
     url: /projects/
   - title: "Group"
     url: /group/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Publications"
+    url: /publications/
   - title: "Resources"
     url: /resources/
-  - title: "News"
-    url: /news/
   - title: "Biography"
     url: /bio/
+  - title: "News"
+    url: /news/
+  - title: "Teaching"
+    url: /teaching/
 
 
 homepage:

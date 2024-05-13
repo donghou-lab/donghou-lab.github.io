@@ -53,7 +53,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 # atom_feed:
-  path                   : # blank (default) uses feed.xml
+  # path                   : # blank (default) uses feed.xml
 search                   : false # true, false (default)
 
 # SEO Related
