@@ -29,10 +29,10 @@ feature_row:
 
 # <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
 <p>
-  <li>I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.</li>
-  <li>I also visited/worked at Monash University in Australia, Norwegian University of Science and Technology (NTNU), and University of Louisiana at Lafayette before joining Clemson. <a href="/bio/index.html">More about me</a><br></li>
-  <li>My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br></li>
-  <li>I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br></li>
+  I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.<br>
+  I also visited/worked at Monash University in Australia, Norwegian University of Science and Technology (NTNU), and University of Louisiana at Lafayette before joining Clemson. <a href="/bio/index.html">More about me</a><br>
+  My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br>
+  I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br>
 </p>
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
