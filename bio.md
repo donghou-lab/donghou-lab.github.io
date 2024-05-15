@@ -5,11 +5,11 @@ author_profile: true
 ---
 <p style="width: 600px;">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7269043.22949187!2d-82.34397596421735!3d34.57944336911884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e1135ab658d%3A0x8d3219cb792a8e56!2sClemson%20University!5e0!3m2!1sen!2sus!4v1715472447720!5m2!1sen!2sus" width="300px" height="240px" style="border:0;float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<small><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br></address> Office: 281 Sirrine Hall<br>Lab: 104 Olin Hall<br>Phone: +1 (864) 656-1946<br></small>
+	<small><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br></address> Office: 281 Sirrine Hall<br>Lab: 104 Olin Hall<br>Phone: +1 (864) 656-1946<br><br></small>
 </p>
 <hr>
 
-### Professional preparation
+### Professional preparation:
 - I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.
 - I worked in [Dr. Wenlong Cheng's lab](https://users.monash.edu.au/~wenlongc/) at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.
 - I obtained my Ph.D. in Materials Science and Engineering from North Carolina State University in 2017, under the supervision of [Dr. Jacob Jones](https://www.mse.ncsu.edu/people/jljone21/).

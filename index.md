@@ -17,6 +17,7 @@ feature_row:
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
 ---
+
 {% include feature_row id="feature_row" type="left" %}
 
 <div class="notice--success">
@@ -38,7 +39,7 @@ feature_row:
   <ul>
     <li><a href="/group/index.html">Our lab members</a> <br /></li>
     <li><a href="/projects/index.html">Research projects</a> <br /></li>
-    <li><a href="/publications/index.html">Publication list</a> <br /></li>
+    <li><a href="/products/index.html">Publication list</a> <br /></li>
   </ul>
 </p>
 
@@ -47,7 +48,7 @@ feature_row:
   <thead>
     <tr>
       <th>Time</th>
-      <th>Event <a href="/news/index.html">(Full News)</a></th>
+      <th>Event <a href="/posts/index.html">(Full News)</a></th>
     </tr>
   </thead>
   <tbody>

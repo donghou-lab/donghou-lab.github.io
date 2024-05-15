@@ -13,7 +13,7 @@ layout: splash
 + Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, **Hou D**, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. ***Nature Communications***, 6 <https://doi.org/10.1038/ncomms9485>
 
 <hr>
-<p>
+<p><font size="2">
 	<strong>Publications</strong> († for co-first authors, * for corresponding authors)
 	<ol>
 	  <li>Zhang Y, Hu A, <strong>Hou D</strong>, Kwon G, Xia D, Li L, Lin F (2024) A Comparative Study of Degradation Behaviors of LiFePO<sub>4</sub>, LiMn<sub>2</sub>O<sub>4</sub>, and LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> in Different Aqueous Electrolytes. <em>Journal of The Electrochemical Society</em>, 171(2):020526. <a href="https://doi.org/10.1149/1945-7111/ad24c0">https://doi.org/10.1149/1945-7111/ad24c0</a></li>
@@ -43,4 +43,4 @@ layout: splash
 	  <li>Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, <strong>Hou D</strong>, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. <em>Nature Communications</em>, 6 <a href="https://doi.org/10.1038/ncomms9485">https://doi.org/10.1038/ncomms9485</a></li>
 	  <li><strong>Hou D</strong>, Fancher CM, Zhao L, Esteves G, Jones JL (2015) Processing and crystallographic structure of non-equilibrium Si-doped HfO<sub>2</sub>. <em>Journal of Applied Physics</em>, 117 <a href="https://doi.org/10.1063/1.4923023">https://doi.org/10.1063/1.4923023</a></li>
 	</ol>
-</p>
+</font></p>
