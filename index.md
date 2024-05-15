@@ -2,6 +2,7 @@
 layout: single
 last_modified_at: 2024-05-15T20:05:00-05:00
 toc: false
+
 sidebar:
   nav: "homepage"
 
@@ -16,6 +17,7 @@ feature_row:
     [Email me](mailto:hou4@clemson.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
+
 ---
 
 {% include feature_row id="feature_row" type="left" %}
