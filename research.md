@@ -14,7 +14,7 @@ layout: splash
 <hr>
 <h3 id="funded-research-projects">Funded Research Projects</h3>
 
-![placeholder_2](/assets/placeholder_2.jpg)
+![placeholder_2](/assets/placeholder_2.jpg)<br>
 <b>Project  Name</b><br>
 Text placeholder here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
 

@@ -37,7 +37,7 @@ feature_row:
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
 <p>
-  For <strong><em>DHLab</em></strong>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).<br />
+  For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).<br />
   <ul>
     <li><a href="/group/index.html">Our lab members</a> <br /></li>
     <li><a href="/research/index.html">Research projects</a> <br /></li>

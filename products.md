@@ -5,18 +5,18 @@ layout: splash
 <!-- ### Journal Covers
 ### After Joining Clemson
  -->
-<p><strong>Top five picks</strong> (update periodically)</p>
-<ul>
+<p><b>Top five picks</b> (update periodically)</p>
+<font size="3"><ul>
   <li><strong>Hou D</strong>, Liu J, Xu Z, Yang Z, Xiao X, Lin F (2023) Cross-length-scale investigation reveals the spatial thermo-chemical dynamics hidden in Ni-rich layered Li-ion cathodes. <strong><em>Matter</em></strong>, 7(2):640–654.</li>
   <li><strong>Hou D</strong>, Han J, Geng C, Xu Z, AlMarzooqi MM, Zhang J, Yang Z, Min J, Xiao X, Borkiewicz O, Wiaderek K, Liu Y, Zhao K, Lin F (2022) Surface coating by mechanofusion modulates bulk charging pathways and battery performance of Ni-rich layered cathodes. <strong><em>Proceedings of the National Academy of Sciences (PNAS)</em></strong>, 119(49) </li>
   <li>Li J, Sharma N, Jiang Z, Yang Y, Monaco F, Xu Z, <strong>Hou D</strong>, Ratner D, Pianetta P, Cloetens P, Lin F, Zhao K, Liu Y (2022) Dynamics of particle network in composite battery cathodes. <strong><em>Science</em></strong>, 376(6592) </li>
   <li><strong>Hou D</strong>, Xu Z, Yang Z, Kuai C, Du Z, Sun C-J, Ren Y, Liu J, Xiao X, Lin F (2022) Effect of the grain arrangements on the thermal stability of polycrystalline nickel-rich lithium-based battery cathodes. <strong><em>Nature Communications</em></strong>, 13(1) </li>
   <li>Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, <strong>Hou D</strong>, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. <strong><em>Nature Communications</em></strong>, 6 </li>
-</ul>
+</ul></font>
 
 <hr>
 <p>
-	<strong>Publications</strong> († for co-first authors, * for corresponding authors)
+	<b>Publications</b> († for co-first authors, * for corresponding authors)
 <small>
 	<ol>
 	  <li>Zhang Y, Hu A, <strong>Hou D</strong>, Kwon G, Xia D, Li L, Lin F (2024) A Comparative Study of Degradation Behaviors of LiFePO<sub>4</sub>, LiMn<sub>2</sub>O<sub>4</sub>, and LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> in Different Aqueous Electrolytes. <em>Journal of The Electrochemical Society</em>, 171(2):020526. <a href="https://doi.org/10.1149/1945-7111/ad24c0">https://doi.org/10.1149/1945-7111/ad24c0</a></li>

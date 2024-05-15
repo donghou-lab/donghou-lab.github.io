@@ -17,24 +17,19 @@ layout: splash
 <hr>
 
 <h3 id="lab-members">Lab Members</h3><br>
-<strong>Graduates</strong>:<br>
-<p style="width: 640px;">
-	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
-	<strong>Ph.D.: </strong>, JaneDoe1<br> Spring 2024, (xxx@clemson.edu)<br> M.S., xxx University (2023)<br> B.S., xxx University (2020)<br> say something about yourself.
-<p style="width: 640px;">
-	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
-	<strong>M.S.: </strong>, JohnDoe2<br> Spring 2024, (xxx@clemson.edu)<br> B.S., xxx University (2020)<br> say something about yourself.
-</p>
-<strong>Undergraduates</strong>:<br>
-<p style="width: 640px;">
-	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
-	JaneDoe3<br> Spring 2024, (xxx@clemson.edu)<br> say something about yourself.<br>
-</p>
-<strong>Alumni</strong>:<br>
+<b>Graduates</b>:<br>
+![placeholder_2](/assets/placeholder_2.jpg)<br>
+<b>Ph.D.: </b>, JaneDoe1, Spring 2024, (xxx@clemson.edu)<br> M.S., xxx University (2023), B.S., xxx University (2020)<br> say something about yourself.
+<b>M.S.: </b>, JohnDoe2, Spring 2024, (xxx@clemson.edu)<br> B.S., xxx University (2020)<br> say something about yourself.
+
+<b>Undergraduates</b>:<br>
+![placeholder_2](/assets/placeholder_2.jpg)<br>
+JaneDoe3, Spring 2024, (xxx@clemson.edu)<br> say something about yourself.<br>
+<b>Alumni</b>:<br>
 Not this soon..<br>
 <hr>
 
-<p><strong>Teamwork</strong> leads to proper prefection. <br> 
+<p><b>Teamwork</b> leads to proper prefection. <br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.</p>
 
