@@ -10,7 +10,7 @@ sidebar:
 feature_row:
   - image_path: /assets/images/misc/DongHou_Profile.jpg
     excerpt: "
-    ### ***Dong Hou***<br>
+    ***Dong Hou***<br>
     Assistant Professor<br><br>
     [Deparment of Materials Science and Engineering](https://www.clemson.edu/cecas/departments/mse/index.html)<br>
     [College of Engineering, Computing, and Applied Sciences (CECAS)](https://www.clemson.edu/cecas/index.html)<br>
@@ -28,19 +28,19 @@ feature_row:
 </div>
 
 # <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
-<p><ul>
+<p>
   <li>I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.</li>
   <li>I also visited/worked at Monash University in Australia, Norwegian University of Science and Technology (NTNU), and University of Louisiana at Lafayette before joining Clemson. <a href="/bio/index.html">More about me</a><br></li>
   <li>My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br></li>
   <li>I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br></li>
-</ul></p>
+</p>
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
 <p>
-  For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).<br>
-  <li><a href="/group/index.html">Our lab members</a> <br></li>
-  <li><a href="/research/index.html">Research projects</a> <br></li>
-  <li><a href="/products/index.html">Publication list</a> <br></li>
+  For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).
+  <li><a href="/group/index.html">Our lab members</a></li>
+  <li><a href="/research/index.html">Research projects</a></li>
+  <li><a href="/products/index.html">Publication list</a></li>
 </p>
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
