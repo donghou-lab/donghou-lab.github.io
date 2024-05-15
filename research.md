@@ -12,16 +12,13 @@ layout: splash
 </p>
 
 <hr>
-
 <h3 id="funded-research-projects">Funded Research Projects</h3>
-<p style="width: 640px";>
-	<img src="/assets/placeholder_2.jpg" style="float: left;" width="640px" height="200px">
-	<b>Project  Name</b><br>
-	Text placeholder here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
-</p>
+
+![placeholder_2](/assets/placeholder_2.jpg)
+<b>Project  Name</b><br>
+Text placeholder here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
 
 <hr>
-
 <p>
 	<h3 id="past-supportsprojects">Past Supports/Projects</h3>
 	<li>NASA EPSCoR CAN, 80NSSC21M0333, Development of Solid-State Electrolyte for Safe and Ultra-High Capacity Batteries for NASA’s Future Missions, Campus-PI.</li>
