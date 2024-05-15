@@ -16,7 +16,7 @@ layout: splash
 - Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. To support diversity, inclusion, and equity, the *Division of Research* established a committee of peers and enacted an [Inclusive Excellence Strategic Plan](https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html). Women, racial and ethnic minorities, individuals with disabilities, and veterans are **encouraged** to join us.<br>
 <hr>
 
-<h3 id="lab-members-gallery">Lab Members</h3><br>
+<h3 id="lab-members">Lab Members</h3><br>
 <strong>Graduates</strong>:<br>
 <p style="width: 600px;">
 	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
@@ -25,18 +25,20 @@ layout: splash
 	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
 	<strong>M.S.: </strong>, JohnDoe2<br> Spring 2024, (xxx@clemson.edu)<br> B.S., xxx University (2020)<br> say something about yourself.
 </p>
-
+<br>
 <strong>Undergraduates</strong>:<br>
 <p style="width: 600px;">
 	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
 	JaneDoe3<br> Spring 2024, (xxx@clemson.edu)<br> say something about yourself.
 </p>
+<br>
 <strong>Alumni</strong>:Not this soon..<br>
 <hr>
 
 <p><strong>Teamwork</strong> leads to proper prefection. <br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.</p>
+
 
 ### Fellowship and Scholarship Opportunities
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities. 
