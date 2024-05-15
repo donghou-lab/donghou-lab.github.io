@@ -28,20 +28,15 @@ feature_row:
 </div>
 
 # <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
-<p>
-  I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.<br>
-  I also visited/worked at Monash University in Australia, Norwegian University of Science and Technology (NTNU), and University of Louisiana at Lafayette before joining Clemson. <a href="/bio/index.html">More about me</a><br>
-  My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br>
-  I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br>
-</p>
+I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.<a href="/bio/index.html">More about me</a><br>
+My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br>
+I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br>
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
-<p>
-  For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).
-  <li><a href="/group/index.html">Our lab members</a></li>
-  <li><a href="/research/index.html">Research projects</a></li>
-  <li><a href="/products/index.html">Publication list</a></li>
-</p>
+For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).<br>
+<a href="/group/index.html">Our lab members</a><br>
+<a href="/research/index.html">Research projects</a><br>
+<a href="/products/index.html">Publication list</a><br>
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
 <table>
