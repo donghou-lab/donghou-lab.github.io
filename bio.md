@@ -8,7 +8,7 @@ author_profile: true
 	<small><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br>Lab: 104 Olin Hall<br></address></small>
 </p>
 
-<hr><br>
+<hr>
 <b>Professional preparation:</b><br>
 &bull;&nbsp;I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.<br>
 &bull;&nbsp;I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng’s lab</a> at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.<br>
