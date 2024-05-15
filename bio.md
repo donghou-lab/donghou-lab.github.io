@@ -5,10 +5,10 @@ author_profile: true
 ---
 <p style="width: 640px height=160px">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7269043.22949187!2d-82.34397596421735!3d34.57944336911884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e1135ab658d%3A0x8d3219cb792a8e56!2sClemson%20University!5e0!3m2!1sen!2sus!4v1715472447720!5m2!1sen!2sus" width="320px" height="160px" style="border:0;float: left;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<br><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br></address> Office: 281 Sirrine Hall<br>Lab: 104 Olin Hall<br>Phone: +1 (864) 656-1946<br>
+	<address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br> Office: 281 Sirrine Hall<br>Lab: 104 Olin Hall<br>Phone: +1 (864) 656-1946<br></address>
 </p><hr>
 
-<strong>Professional preparation:</strong>
+<p><strong>Professional preparation:</strong>
   <ul>
 	<li>I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.</li>
 	<li>I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng’s lab</a> at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.</li>
@@ -19,6 +19,7 @@ author_profile: true
 	<li>In 2024, I went back to the Carolinas and joined Clemson University.</li>
 	<li>I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).</li>
   </ul>
+</p>
 
 <strong>Some quotes I collected:</strong>
   <ul>
@@ -37,5 +38,5 @@ author_profile: true
 </ul>
 
 <p>Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:</p>
-<iframe src="./Biography - Dong Hou’s Lab_files/embed(1).html" width="640" height="160" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" width="640" height="160" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <p>Top 3 cities I visited: <strong>Madrid</strong> ESP, <strong>Melbourn</strong> AUS, <strong>Tokyo</strong> JPN.</p>
