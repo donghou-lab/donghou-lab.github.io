@@ -19,7 +19,7 @@ layout: splash
 <h3 id="lab-members">Lab Members</h3><br>
 <b>Graduates</b>:<br>
 ![placeholder_2](/assets/placeholder_2.jpg)<br>
-<b>Ph.D.: </b>, JaneDoe1, Spring 2024, (xxx@clemson.edu)<br> M.S., xxx University (2023), B.S., xxx University (2020)<br> say something about yourself.
+<b>Ph.D.: </b>, JaneDoe1, Spring 2024, (xxx@clemson.edu)<br> M.S., xxx University (2023), B.S., xxx University (2020)<br> say something about yourself.<br>
 <b>M.S.: </b>, JohnDoe2, Spring 2024, (xxx@clemson.edu)<br> B.S., xxx University (2020)<br> say something about yourself.
 
 <b>Undergraduates</b>:<br>
@@ -33,7 +33,7 @@ Not this soon..<br>
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.</p>
 
-<h3>Fellowship and Scholarship Opportunities</h3><br>
-We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
-<h3>Group Member Awards and Accomplishments</h3><br>
-<h3>Group Member Internships and Employments</h3><br>
+<h3>Fellowship and Scholarship Opportunities</h3>
+We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.
+<h3>Group Member Awards and Accomplishments</h3>
+<h3>Group Member Internships and Employments</h3>
