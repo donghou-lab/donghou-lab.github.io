@@ -8,29 +8,29 @@ author_profile: true
 	<small><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br>Lab: 104 Olin Hall<br></address></small>
 </p>
 
-<hr>
-<b>Professional preparation:</b>
-<li>I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.</li>
-<li>I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng’s lab</a> at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.</li>
-<li>I obtained my Ph.D. in Materials Science and Engineering from North Carolina State University in 2017, under the supervision of <a href="https://www.mse.ncsu.edu/people/jljone21/">Dr. Jacob Jones</a>.</li>
-<li>After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.</li>
-<li>I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.</li>
-<li>I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.</li>
-<li>In 2024, I went back to the Carolinas and joined Clemson University.</li>
-<li>I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).</li>
+<hr><br>
+<b>Professional preparation:</b><br>
+&bull;&nbsp;I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.<br>
+&bull;&nbsp;I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng’s lab</a> at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.<br>
+&bull;&nbsp;I obtained my Ph.D. in Materials Science and Engineering from North Carolina State University in 2017, under the supervision of <a href="https://www.mse.ncsu.edu/people/jljone21/">Dr. Jacob Jones</a>.<br>
+&bull;&nbsp;After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.<br>
+&bull;&nbsp;I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.<br>
+&bull;&nbsp;I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.<br>
+&bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University.<br>
+&bull;&nbsp;I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).<br>
 
 
-<br><b>Some quotes I collected:</b>
-<li>Make mistakes, quickly.</li>
-<li>A week is 2% of the year. Time flies.</li>
-<li>To achieve great things, you need a plan and not quite enough time.</li>
-<li>Enthusiasm and motivation matter.</li>
+<br><b>Some quotes I collected:</b><br>
+&bull;&nbsp;Make mistakes, quickly.<br>
+&bull;&nbsp;A week is 2% of the year. Time flies.<br>
+&bull;&nbsp;To achieve great things, you need a plan and not quite enough time.<br>
+&bull;&nbsp;Enthusiasm and motivation matter.<br>
 
-<br><b>Fun facts about me:</b>
-<li>In my spare time, I enjoy music, reading, hiking, and traveling, to explore and appreciate the beauty of life.</li>
-<li>I love football (a.k.a. “soccer” in the United States) and have been a fan of Real Madrid CF since ten.</li>
-<li>I sometimes email after-hours, to note the <em>ad hoc</em> thoughts or ideas. I don’t anticipate the same from others.</li>
-<li>I worship low-context culture in my lab.</li>
+<br><b>Fun facts about me:</b><br>
+&bull;&nbsp;In my spare time, I enjoy music, reading, hiking, and traveling, to explore and appreciate the beauty of life.<br>
+&bull;&nbsp;I love football (a.k.a. “soccer” in the United States) and have been a fan of Real Madrid CF since ten.<br>
+&bull;&nbsp;I sometimes email after-hours, to note the <em>ad hoc</em> thoughts or ideas. I don’t anticipate the same from others.<br>
+&bull;&nbsp;I worship low-context culture in my lab.<br>
 
 <p>
 	Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>
