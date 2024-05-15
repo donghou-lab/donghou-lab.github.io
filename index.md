@@ -10,7 +10,7 @@ sidebar:
 feature_row:
   - image_path: /assets/images/misc/DongHou_Profile.jpg
     excerpt: "
-    <strong><em><font size="5">Dong Hou</font></em></strong><br>
+    ***Dong Hou***<br>
     Assistant Professor<br><br>
     [Deparment of Materials Science and Engineering](https://www.clemson.edu/cecas/departments/mse/index.html)<br>
     [College of Engineering, Computing, and Applied Sciences (CECAS)](https://www.clemson.edu/cecas/index.html)<br>
@@ -18,7 +18,6 @@ feature_row:
     [Email me](mailto:hou4@clemson.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
-
 ---
 
 {% include feature_row id="feature_row" type="left" %}

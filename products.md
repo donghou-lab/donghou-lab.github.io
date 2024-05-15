@@ -5,16 +5,19 @@ layout: splash
 <!-- ### Journal Covers
 ### After Joining Clemson
  -->
-**Top five picks** (update periodically)
-+ **Hou D**, Liu J, Xu Z, Yang Z, Xiao X, Lin F (2023) Cross-length-scale investigation reveals the spatial thermo-chemical dynamics hidden in Ni-rich layered Li-ion cathodes. ***Matter***, 7(2):640–654. <https://doi.org/10.1016/j.matt.2023.11.025>
-+ **Hou D**, Han J, Geng C, Xu Z, AlMarzooqi MM, Zhang J, Yang Z, Min J, Xiao X, Borkiewicz O, Wiaderek K, Liu Y, Zhao K, Lin F (2022) Surface coating by mechanofusion modulates bulk charging pathways and battery performance of Ni-rich layered cathodes. ***Proceedings of the National Academy of Sciences (PNAS)***, 119(49) <https://doi.org/10.1073/pnas.2212802119>
-+ Li J, Sharma N, Jiang Z, Yang Y, Monaco F, Xu Z, **Hou D**, Ratner D, Pianetta P, Cloetens P, Lin F, Zhao K, Liu Y (2022) Dynamics of particle network in composite battery cathodes. ***Science***, 376(6592) <https://doi.org/10.1126/science.abm8962>
-+ **Hou D**, Xu Z, Yang Z, Kuai C, Du Z, Sun C-J, Ren Y, Liu J, Xiao X, Lin F (2022) Effect of the grain arrangements on the thermal stability of polycrystalline nickel-rich lithium-based battery cathodes. ***Nature Communications***, 13(1) <https://doi.org/10.1038/s41467-022-30935-y>
-+ Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, **Hou D**, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. ***Nature Communications***, 6 <https://doi.org/10.1038/ncomms9485>
+<p><strong>Top five picks</strong> (update periodically)</p>
+<ul>
+  <li><strong>Hou D</strong>, Liu J, Xu Z, Yang Z, Xiao X, Lin F (2023) Cross-length-scale investigation reveals the spatial thermo-chemical dynamics hidden in Ni-rich layered Li-ion cathodes. <strong><em>Matter</em></strong>, 7(2):640–654. <a href="https://doi.org/10.1016/j.matt.2023.11.025">https://doi.org/10.1016/j.matt.2023.11.025</a></li>
+  <li><strong>Hou D</strong>, Han J, Geng C, Xu Z, AlMarzooqi MM, Zhang J, Yang Z, Min J, Xiao X, Borkiewicz O, Wiaderek K, Liu Y, Zhao K, Lin F (2022) Surface coating by mechanofusion modulates bulk charging pathways and battery performance of Ni-rich layered cathodes. <strong><em>Proceedings of the National Academy of Sciences (PNAS)</em></strong>, 119(49) <a href="https://doi.org/10.1073/pnas.2212802119">https://doi.org/10.1073/pnas.2212802119</a></li>
+  <li>Li J, Sharma N, Jiang Z, Yang Y, Monaco F, Xu Z, <strong>Hou D</strong>, Ratner D, Pianetta P, Cloetens P, Lin F, Zhao K, Liu Y (2022) Dynamics of particle network in composite battery cathodes. <strong><em>Science</em></strong>, 376(6592) <a href="https://doi.org/10.1126/science.abm8962">https://doi.org/10.1126/science.abm8962</a></li>
+  <li><strong>Hou D</strong>, Xu Z, Yang Z, Kuai C, Du Z, Sun C-J, Ren Y, Liu J, Xiao X, Lin F (2022) Effect of the grain arrangements on the thermal stability of polycrystalline nickel-rich lithium-based battery cathodes. <strong><em>Nature Communications</em></strong>, 13(1) <a href="https://doi.org/10.1038/s41467-022-30935-y">https://doi.org/10.1038/s41467-022-30935-y</a></li>
+  <li>Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, <strong>Hou D</strong>, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. <strong><em>Nature Communications</em></strong>, 6 <a href="https://doi.org/10.1038/ncomms9485">https://doi.org/10.1038/ncomms9485</a></li>
+</ul>
 
 <hr>
-<p><font size="2">
+<p>
 	<strong>Publications</strong> († for co-first authors, * for corresponding authors)
+<small>
 	<ol>
 	  <li>Zhang Y, Hu A, <strong>Hou D</strong>, Kwon G, Xia D, Li L, Lin F (2024) A Comparative Study of Degradation Behaviors of LiFePO<sub>4</sub>, LiMn<sub>2</sub>O<sub>4</sub>, and LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> in Different Aqueous Electrolytes. <em>Journal of The Electrochemical Society</em>, 171(2):020526. <a href="https://doi.org/10.1149/1945-7111/ad24c0">https://doi.org/10.1149/1945-7111/ad24c0</a></li>
 	  <li>Hu X, Zhao Z, Zhao Y, Wang X, Sainio S, Nordlund D, Ruse CM, Zhou X-D, Boettcher SW, <strong>Hou D</strong>,* Hong Q-J,* Mu L* (2024) Interfacial degradation of the NMC/Li<sub>6</sub>PS<sub>5</sub>Cl composite cathode in all-solid-state batteries. <em>Journal of Materials Chemistry A</em>, 12(6):3700–3710. <a href="https://doi.org/10.1039/D3TA06092F">https://doi.org/10.1039/D3TA06092F</a></li>
@@ -43,4 +46,4 @@ layout: splash
 	  <li>Rost CM, Sachet E, Borman T, Moballegh A, Dickey EC, <strong>Hou D</strong>, Jones JL, Curtarolo S, Maria J-P (2015) Entropy-stabilized oxides. <em>Nature Communications</em>, 6 <a href="https://doi.org/10.1038/ncomms9485">https://doi.org/10.1038/ncomms9485</a></li>
 	  <li><strong>Hou D</strong>, Fancher CM, Zhao L, Esteves G, Jones JL (2015) Processing and crystallographic structure of non-equilibrium Si-doped HfO<sub>2</sub>. <em>Journal of Applied Physics</em>, 117 <a href="https://doi.org/10.1063/1.4923023">https://doi.org/10.1063/1.4923023</a></li>
 	</ol>
-</font></p>
+</small></p>

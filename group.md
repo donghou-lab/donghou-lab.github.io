@@ -18,30 +18,27 @@ layout: splash
 
 <h3 id="lab-members">Lab Members</h3><br>
 <strong>Graduates</strong>:<br>
-<p style="width: 600px;">
-	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
+<p style="width: 640px;">
+	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
 	<strong>Ph.D.: </strong>, JaneDoe1<br> Spring 2024, (xxx@clemson.edu)<br> M.S., xxx University (2023)<br> B.S., xxx University (2020)<br> say something about yourself.
-<p style="width: 600px;">
-	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
+<p style="width: 640px;">
+	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
 	<strong>M.S.: </strong>, JohnDoe2<br> Spring 2024, (xxx@clemson.edu)<br> B.S., xxx University (2020)<br> say something about yourself.
 </p>
-<br>
 <strong>Undergraduates</strong>:<br>
-<p style="width: 600px;">
-	<img src="/assets/placeholder.jpg" width="180px" height="180px" style="float: left;" />
-	JaneDoe3<br> Spring 2024, (xxx@clemson.edu)<br> say something about yourself.
+<p style="width: 640px;">
+	<img src="/assets/placeholder.jpg" width="640px" height="160px" style="float: left;" />
+	JaneDoe3<br> Spring 2024, (xxx@clemson.edu)<br> say something about yourself.<br>
 </p>
-<br>
-<strong>Alumni</strong>:Not this soon..<br>
+<strong>Alumni</strong>:<br>
+Not this soon..<br>
 <hr>
 
 <p><strong>Teamwork</strong> leads to proper prefection. <br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.</p>
 
-
-### Fellowship and Scholarship Opportunities
-We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities. 
-
-### Group Member Awards and Accomplishments
-### Group Member Internships and Employments
+<h3>Fellowship and Scholarship Opportunities</h3><br>
+We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
+<h3>Group Member Awards and Accomplishments</h3><br>
+<h3>Group Member Internships and Employments</h3><br>
