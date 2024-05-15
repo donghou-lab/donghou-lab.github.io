@@ -28,7 +28,7 @@ feature_row:
 </div>
 
 ## <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
-🎓 I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech.<a href="/bio/index.html">More about me</a><br>
+🎓 I received my Ph.D. from North Carolina State University, and my Bachelor degree from Central South University in China. The majority of my postdoctoral training was at Virginia Tech. <a href="/bio/index.html">More about me</a><br>
 🔬 My personal research interests include energy science, crystallography, microscopy, electrochemistry, manufacturing, and data science.<br>
 📘 I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br>
 
@@ -38,7 +38,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 &bull;&nbsp;<a href="/research/index.html">Research projects</a><br>
 &bull;&nbsp;<a href="/products/index.html">Publication list</a><br>
 
-# <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
+## <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
 <table>
   <thead>
     <tr>

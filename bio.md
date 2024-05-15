@@ -18,14 +18,11 @@ author_profile: true
 &bull;&nbsp;I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.<br>
 &bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University.<br>
 &bull;&nbsp;I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).<br>
-
-
 <br><b>Some quotes I collected:</b><br>
 &bull;&nbsp;Make mistakes, quickly.<br>
 &bull;&nbsp;A week is 2% of the year. Time flies.<br>
 &bull;&nbsp;To achieve great things, you need a plan and not quite enough time.<br>
 &bull;&nbsp;Enthusiasm and motivation matter.<br>
-
 <br><b>Fun facts about me:</b><br>
 &bull;&nbsp;In my spare time, I enjoy music, reading, hiking, and traveling, to explore and appreciate the beauty of life.<br>
 &bull;&nbsp;I love football (a.k.a. “soccer” in the United States) and have been a fan of Real Madrid CF since ten.<br>
