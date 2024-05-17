@@ -47,7 +47,7 @@ We are committed to workforce training and professional development in STEM fiel
 <br>
 <b>Group Member Internships and Employments</b><br>
 <br>
-<b>Friends of our lab<b> (at least in my personal perspective)<br>
+<b>Friends of our lab</b> (at least in my personal perspective)
 <p float="left">
   <img src="/assets/images/misc/Member_TheTiger.jpg" width="160 px" />
   <img src="/assets/images/misc/Member_HokieBird.jpg" width="160 px" /> 

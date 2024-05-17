@@ -23,7 +23,7 @@ feature_row:
 {% include feature_row id="feature_row" type="left" %}
 
 <div class="notice--success">
-  🔊 <a href="/index.html#brief-news">Latest news</a>: the website is still under construction. I will finish up later.<br>
+  🔊 <a href="/index.html#brief-news">Latest news</a>: The website is still under construction. I will finish up later.<br>
   💡 <a href="/assets/Openings.pdf">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join.<br>
 </div>
 
