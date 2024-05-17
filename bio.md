@@ -16,18 +16,23 @@ author_profile: true
 &bull;&nbsp;After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.<br>
 &bull;&nbsp;I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.<br>
 &bull;&nbsp;I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.<br>
-&bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University.<br>
+&bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University. I’m thankful for all the mentorship I received.<br>
 &bull;&nbsp;I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).<br>
+
 <br><b>Some quotes I collected:</b><br>
 &bull;&nbsp;Make mistakes, quickly.<br>
 &bull;&nbsp;A week is 2% of the year. Time flies.<br>
 &bull;&nbsp;To achieve great things, you need a plan and not quite enough time.<br>
 &bull;&nbsp;Enthusiasm and motivation matter.<br>
+
 <br><b>Fun facts about me:</b><br>
 &bull;&nbsp;In my spare time, I enjoy music, reading, hiking, and traveling, to explore and appreciate the beauty of life.<br>
 &bull;&nbsp;I love football (a.k.a. “soccer” in the United States) and have been a fan of Real Madrid CF since ten.<br>
+&bull;&nbsp;I learned the essential syntax of Markdown, HTML, and Ruby on a weekend to set up and fine-tune this website. Frustrating and fun concurrently.<br>
 &bull;&nbsp;I sometimes email after-hours, to note the <em>ad hoc</em> thoughts or ideas. I don’t anticipate the same from others.<br>
 &bull;&nbsp;I worship low-context culture in my lab.<br>
+
+<!-- &bull;&nbsp;text<br> -->
 
 <p>
 	Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>

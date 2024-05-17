@@ -25,3 +25,8 @@ $right-sidebar-width-wide     : 250px !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.nav-links .current a {
+    color: #D3D3D3; /* Blue color for the active tab */
+    background-color: #e9ecef; /* Light gray background for the active tab */
+}

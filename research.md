@@ -2,6 +2,8 @@
 title: "Research"
 layout: splash
 ---
+<!-- &bull;&nbsp;text<br> -->
+
 <b>Research Theme</b><br>
 We envision addressing key challenges at the intersection of materials, energy, and sustainability. Our research goal is to leverage the advanced characterization tools to understand fundamental materials behavior at the multi-ength scales and engineer novel materials with improved properties for real-world applications in nanoscience and nanotechnology, ceramic engineering, and clean energy technologies.<br>
 &bull;&nbsp;Characterization: in situ, operando, multi-modal, multi-dimensional<br>
