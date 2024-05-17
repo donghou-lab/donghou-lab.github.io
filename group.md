@@ -26,32 +26,33 @@ say something about yourself.<br>
 <b>M.S.: JohnDoe2 </b>, Spring 2024, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>
 say something about yourself.<br>
-
-<br><b>Undergraduates</b>:<br>
+<br>
+<b>Undergraduates</b>:<br>
 <img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br>
 JaneDoe3, Spring 2024, (xxx@clemson.edu)<br>
 say something about yourself.<br>
-<br><b>Alumni</b>:<br>
+<br>
+<b>Alumni</b>:<br>
 Not this soon..<br>
 <hr>
 
 <b>Teamwork</b> leads to proper prefection.<br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
-
-<br><b>Fellowship and Scholarship Opportunities</b><br>
+<br>
+<b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
 <br>
 <b>Group Member Awards and Accomplishments</b><br>
 <br>
 <b>Group Member Internships and Employments</b><br>
-
-<br><b>Friends of our lab (at least in my personal perspective)<b><br>
+<br>
+<b>Friends of our lab<b> (at least in my personal perspective)<br>
 <p float="left">
   <img src="/assets/images/misc/Member_TheTiger.jpg" width="160 px" />
   <img src="/assets/images/misc/Member_HokieBird.jpg" width="160 px" /> 
   <img src="/assets/images/misc/Member_Wolfpack.jpg" width="160 px" />
 </p>
-&bull;&nbsp;Wolfpack, Think and Do 
-&bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)
-&bull;&nbsp;The Tiger, Um Spiro Spero (While I breathe, I hope)
+&bull;&nbsp;The Tiger, Um Spiro Spero (While I breathe, I hope)<br>
+&bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
+&bull;&nbsp;Wolfpack, Think and Do<br>

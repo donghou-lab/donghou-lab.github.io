@@ -3,16 +3,14 @@ title: "Teaching"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-
 <b>Courses</b><br>
 &bull;&nbsp;MSE 3010 Materials Characterization Laboratory (Fall 2024)<br>
-
-<br><b>Outreach programs</b><br>
+<br>
+<b>Outreach programs</b><br>
 &bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024<br>
 &bull;&nbsp;Virginia Tech Research Experiences for Undergraduates (REU), KAUST Gifted Student Program, Summer 2021<br>
 <hr>
 <!-- I’m proud of my mentees and all they have accomplished -->
-
 <blockquote>
 	<ul>
 		<li>"Teaching is not my job, it’s my passion; getting better at it, that’s my job."</li>
