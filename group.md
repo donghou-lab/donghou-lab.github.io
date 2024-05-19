@@ -53,6 +53,6 @@ We are committed to workforce training and professional development in STEM fiel
   <img src="/assets/images/misc/Member_HokieBird.jpg" width="160 px" /> 
   <img src="/assets/images/misc/Member_Wolfpack.jpg" width="160 px" />
 </p>
-&bull;&nbsp;The Tiger, Um Spiro Spero (While I breathe, I hope)<br>
+&bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
 &bull;&nbsp;Wolfpack, Think and Do<br>
