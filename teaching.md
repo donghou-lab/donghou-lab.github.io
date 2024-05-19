@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 <b>Courses</b><br>
-&bull;&nbsp;MSE 3010 Materials Characterization Laboratory (Fall 2024)<br>
+&bull;&nbsp;MSE 3010 Materials Synthesis and Fabrication Laboratory (Fall 2024)<br>
 <br>
 <b>Outreach programs</b><br>
 &bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024<br>
