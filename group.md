@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 
-<b>Openings</b><br>
+<b>Openings</b><a href="/assets/Openings.pdf">Flyer</a><br><br>
 &bull;&nbsp;Postdocs with <strong>proven experience</strong> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), artificial intelligence (machine learning, deep learning, computer vision).<br>
 &bull;&nbsp;Ph.D. and M.S. students with a background and <strong>strong interests</strong> in: energy storage, ceramic engineering, advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
 &bull;&nbsp;Undergraduate students in MSE or related majors with an interest in the above research topics are <strong>encouraged</strong> to apply.<br>

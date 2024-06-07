@@ -15,7 +15,7 @@ author_profile: true
 &bull;&nbsp;After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.<br>
 &bull;&nbsp;I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.<br>
 &bull;&nbsp;I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.<br>
-&bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University. I’m thankful for all the mentorship I received.<br>
+&bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University. <strong>I’m thankful for all the mentorship I received.</strong><br>
 &bull;&nbsp;I collaborate with several DOE national laboratories, domestic and international institutions, and companies. The research has been supported by multiple federal agencies (NSF, DOE, and NASA).<br>
 <br>
 <b>Some quotes I collected:</b><br>

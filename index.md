@@ -12,7 +12,7 @@ feature_row:
     excerpt: "
     ***Dong Hou***<br>
     Assistant Professor<br><br>
-    [Deparment of Materials Science and Engineering(MSE](https://www.clemson.edu/cecas/departments/mse/index.html)<br>
+    [Deparment of Materials Science and Engineering(MSE)](https://www.clemson.edu/cecas/departments/mse/index.html)<br>
     [College of Engineering, Computing, and Applied Sciences (CECAS)](https://www.clemson.edu/cecas/index.html)<br>
     Clemson University<br>
     [Email me](mailto:hou4@clemson.edu){: .btn .btn--inverse} &nbsp;
@@ -24,7 +24,7 @@ feature_row:
 
 <div class="notice--success">
   🔊 <a href="/index.html#brief-news">Latest news</a>: The website is still under construction. I will finish up later.<br>
-  💡 <a href="/assets/Openings.pdf">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join.<br>
+  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a> <br>
 </div>
 
 ## <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
@@ -40,7 +40,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 
 ## <i class="fa fa-seedling fa-fw"></i>&nbsp;Brief News
 <table>
-  <thead><tr><th>Time</th><th>Event <a href="/posts/index.html">(Full News)</a></th></tr></thead>
+  <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 245th ECS Meeting in San Francisco, CA.</td></tr>

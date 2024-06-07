@@ -23,7 +23,7 @@ layout: splash
 Our department provides analytical and physical testing, manufacturing, fiber extrusion, and processing support and services. Ready access to differential scanning calorimetry (DSC), Thermogravimetric Analysis (TGA), Inductively coupled plasma (ICP) analysis, and many others.<br>
 <br>
 <b>Palmetto High Performance Computing (HPC) Cluster</b><br>
-<a href="https://www.palmetto.clemson.edu/palmetto/">Palmetto Cluster</a> infrastructure integrates world-class provisions in high-performance computing, high-performance networks, data visualization, storage architectures, and middleware. All Clemson researchers can use and receive training on the Palmetto Cluster for free. It is comprised of 1786 compute nodes, totaling 34916 CPU cores. The second iteration, Palmetto 2, has 50 H100 GPUs for AI/ML capabilities<br>
+<a href="https://www.palmetto.clemson.edu/palmetto/">Palmetto Cluster</a> infrastructure integrates world-class provisions in high-performance computing, high-performance networks, data visualization, storage architectures, and middleware. All Clemson researchers can use and receive training on the Palmetto Cluster for free. It is comprised of 1786 compute nodes, totaling 34916 CPU cores. The second iteration, Palmetto 2, has 50 H100 GPUs for AI/ML capabilities.<br>
 <br>
 <b>Chemistry Instrumentation Facility</b><br>
 The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/">shared instrumentation facility</a> available to the faculty for research and teaching. Ready access to X-ray diffraction analysis (XRD), Fourier-transform infrared spectroscopy (FTIR), Nuclear magnetic resonance spectroscopy (NMR), and many others.<br>
