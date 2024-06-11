@@ -42,7 +42,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
+    <!-- <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr> -->
     <tr><td>2024.05</td><td>Dr. Hou attends 245th ECS Meeting in San Francisco, CA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
