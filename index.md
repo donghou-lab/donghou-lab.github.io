@@ -43,13 +43,13 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits in one year. We will perform synchrotron experiments on batteries.</td></tr>
+    <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits of this DOE facility in one year. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou is invited for a talk on Energy Materials for Sustainable Development at the Materials Science & Technology 2024 (MS&T24) conference.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 245th ECS Meeting in San Francisco, CA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
-    <tr><td>2024.04</td><td>Our website is online, finally.</td></tr>
+    <tr><td>2024.04</td><td>Our website is online.</td></tr>
     <tr><td>2024.03</td><td>Dr. Hou organizes a symposium at ACS Spring 2024 meeting in New Orleans, LA.</td></tr>
     <tr><td>2023.09</td><td>Dr. Hou organizes a workshop at 2023 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
   </tbody>
