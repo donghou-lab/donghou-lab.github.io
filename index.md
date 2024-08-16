@@ -23,8 +23,9 @@ feature_row:
 {% include feature_row id="feature_row" type="left" %}
 
 <div class="notice--success">
-  🔊 <a href="/index.html#brief-news">Latest news</a>: The website is still under construction. I will finish up later.<br>
+  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work, "A Green, Fire-Retarding Ether Solvent for Sustainable High-Voltage Li-Ion Batteries at Standard Salt Concentration", is accepted for publication in Advanced Energy Materials. Lead by Dawei Xia and Dr. Feng Lin at Virginia Tech.<br>
   💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a> <br>
+  🔊 <a href="/index.html#brief-news">Latest news</a>: The website is still under construction. I will finish up later.<br>
 </div>
 
 ## <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
@@ -42,7 +43,9 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <!-- <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr> -->
+    <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits in one year. We will perform synchrotron experiments on batteries.</td></tr>
+    <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
+    <tr><td>2024.06</td><td>Dr. Hou is invited for a talk on Energy Materials for Sustainable Development at the Materials Science & Technology 2024 (MS&T24) conference.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 245th ECS Meeting in San Francisco, CA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
