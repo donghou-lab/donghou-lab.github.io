@@ -27,7 +27,8 @@ Our department provides analytical and physical testing, manufacturing, fiber ex
 <br>
 <b>Chemistry Instrumentation Facility</b><br>
 The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/">shared instrumentation facility</a> available to the faculty for research and teaching. Ready access to X-ray diffraction analysis (XRD), Fourier-transform infrared spectroscopy (FTIR), Nuclear magnetic resonance spectroscopy (NMR), and many others.<br>
-<br><b>Facilities at DOE National Labs:</b><br>
+<br>
+<b>Facilities at DOE National Labs:</b><br>
 &bull;&nbsp;<a href="https://www.aps.anl.gov/">Advanced Photon Source, ANL</a><br>
 &bull;&nbsp;<a href="https://www.bnl.gov/nsls2/">National Synchrotron Light Source II, BNL</a><br>
 &bull;&nbsp;<a href="https://neutrons.ornl.gov/sns">Spallation Neutron Source, ORNL</a><br>
@@ -35,8 +36,17 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 &bull;&nbsp;<a href="https://www.srnl.gov/">Savannah River National Laboratory</a><br>
 
 <hr>
+<!-- Template: &bull;&nbsp;<a href="https://links">text</a><br> -->
+<b>Academia Collection</b><br>
+&bull;&nbsp;<a href="https://publish.acs.org/publish/author_university">ACS Author University</a><br>
+&bull;&nbsp;<a href="https://drive.google.com/drive/folders/1y9kWHkgu2weYN4rrd0rht8M6A1DnhlmT?usp=drive_link">How to Peer Review</a><br>
+&bull;&nbsp;<a href="https://drive.google.com/drive/folders/1hr6H8XFplQL9IrwvlZ-dYlK7NKcQrTS3?usp=drive_link">How to Publish Your Research</a><br>
+&bull;&nbsp;<a href="https://github.com/jbhuang0604/awesome-tips">Awesome Tips from Dr. Jia-Bin Huang on Research, Writing, Career, etc.</a><br>
+&bull;&nbsp;<a href="https://drive.google.com/drive/folders/1Y-cMshtjh4mv5rev_6GD0C7SJO6IO1Qs?usp=drive_link">My Extra Repository</a><br>
+
 <b>Batteries and Eletrochemistry:</b><br>
 &bull;&nbsp;<a href="https://batteryuniversity.com/articles">Battery University</a><br>
+&bull;&nbsp;<a href="https://www.youtube.com/watch?v=4-1psMHSpKs"> "How a Lithium Ion Battery Works", Video by Limiting Factor</a>, highly recommended<br>
 &bull;&nbsp;<a href="https://knowledge.electrochem.org/">Eletrochemistry Knowledge from ECS</a><br>
 &bull;&nbsp;<a href="https://video.austinpbs.org/show/energy-switch/episodes/season/1/">Energy Switch from PBS</a><br>
 &bull;&nbsp;<a href="https://www.linkedin.com/newsletters/this-week-in-batteries-twib-7028855205660172288/">This Week In Batteries (TWIB)</a><br>

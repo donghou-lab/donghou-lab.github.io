@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-05-15T20:05:00-05:00
+last_modified_at: 2024-07-15T20:05:00-05:00
 
 toc: false
 
@@ -19,13 +19,13 @@ feature_row:
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
     "
 ---
-
 {% include feature_row id="feature_row" type="left" %}
-
+<!-- Latest news, sync with brief-news section-->
+<!-- Update the dates on header section-->
 <div class="notice--success">
-  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work, "A Green, Fire-Retarding Ether Solvent for Sustainable High-Voltage Li-Ion Batteries at Standard Salt Concentration", is accepted for publication in Advanced Energy Materials. Lead by Dawei Xia and Dr. Feng Lin at Virginia Tech.<br>
+  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in <a href="https://doi.org/10.1002/aenm.202400773">Advanced Energy Materials</a>. Lead by Dawei Xia and Dr. Feng Lin at Virginia Tech.<br>
   💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a> <br>
-  🔊 <a href="/index.html#brief-news">Latest news</a>: The website is still under construction. I will finish up later.<br>
+  🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction. I will finish up later.<br>
 </div>
 
 ## <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
@@ -43,9 +43,11 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
+    <!-- <tr><td>2023.09</td><td>text</td></tr> -->
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits of this DOE facility in one year. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou is invited for a talk on Energy Materials for Sustainable Development at the Materials Science & Technology 2024 (MS&T24) conference.</td></tr>
+    <tr><td>2024.06</td><td>A collaborative work is accepted for publication in <a href="https://doi.org/10.1002/aenm.202400773">Advanced Energy Materials</a>. Lead by Dawei Xia and Dr. Feng Lin at Virginia Tech. </td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 245th ECS Meeting in San Francisco, CA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
     <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
@@ -54,7 +56,4 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
     <tr><td>2023.09</td><td>Dr. Hou organizes a workshop at 2023 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
   </tbody>
 </table>
-
-<!-- <tr><td>2023.09</td><td>text</td></tr> -->
-
 <!-- <tr><td>2024.01</td><td>Dr. Hou joines Department of Materials Science and Engineering, Clemson University</td></tr> -->

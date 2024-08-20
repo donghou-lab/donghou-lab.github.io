@@ -10,7 +10,7 @@ author_profile: true
 <hr>
 <b>Professional preparation:</b><br>
 &bull;&nbsp;I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.<br>
-&bull;&nbsp;I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng’s lab</a> at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.<br>
+&bull;&nbsp;I worked in <a href="https://users.monash.edu.au/~wenlongc/">Dr. Wenlong Cheng</a>’s lab at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.<br>
 &bull;&nbsp;I obtained my Ph.D. in Materials Science and Engineering from North Carolina State University in 2017, under the supervision of <a href="https://www.mse.ncsu.edu/people/jljone21/">Dr. Jacob Jones</a>.<br>
 &bull;&nbsp;After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.<br>
 &bull;&nbsp;I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.<br>
