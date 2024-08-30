@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 
-<b>Lab instruments: </b><a href="/assets/placeholder.jpg">Summary Slide, Coming Soon</a><br>
+<b>Lab instruments: </b><a href="/assets/placeholder.jpg">Summary slide coming soon</a><br>
 &bull;&nbsp;Battery fabrication and assembly line<br>
 &bull;&nbsp;Glovebox<br>
 &bull;&nbsp;Battery test channels<br>
@@ -41,24 +41,33 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 &bull;&nbsp;<a href="https://publish.acs.org/publish/author_university">ACS Author University</a><br>
 &bull;&nbsp;<a href="https://drive.google.com/drive/folders/1y9kWHkgu2weYN4rrd0rht8M6A1DnhlmT?usp=drive_link">How to Peer Review</a><br>
 &bull;&nbsp;<a href="https://drive.google.com/drive/folders/1hr6H8XFplQL9IrwvlZ-dYlK7NKcQrTS3?usp=drive_link">How to Publish Your Research</a><br>
-&bull;&nbsp;<a href="https://github.com/jbhuang0604/awesome-tips">Awesome Tips from Dr. Jia-Bin Huang on Research, Writing, Career, etc.</a><br>
+&bull;&nbsp;<a href="https://github.com/jbhuang0604/awesome-tips">Awesome Tips from Dr. Jia-Bin Huang</a>, on Research, Writing, Career, etc.<br>
 &bull;&nbsp;<a href="https://drive.google.com/drive/folders/1Y-cMshtjh4mv5rev_6GD0C7SJO6IO1Qs?usp=drive_link">My Extra Repository</a><br>
 
-<b>Batteries and Eletrochemistry:</b><br>
+<b>Batteries and Eletrochemistry</b><br>
 &bull;&nbsp;<a href="https://batteryuniversity.com/articles">Battery University</a><br>
-&bull;&nbsp;<a href="https://www.youtube.com/watch?v=4-1psMHSpKs"> "How a Lithium Ion Battery Works", Video by Limiting Factor</a>, highly recommended<br>
-&bull;&nbsp;<a href="https://knowledge.electrochem.org/">Eletrochemistry Knowledge from ECS</a><br>
-&bull;&nbsp;<a href="https://video.austinpbs.org/show/energy-switch/episodes/season/1/">Energy Switch from PBS</a><br>
-&bull;&nbsp;<a href="https://www.linkedin.com/newsletters/this-week-in-batteries-twib-7028855205660172288/">This Week In Batteries (TWIB)</a><br>
+&bull;&nbsp;<a href="https://www.youtube.com/watch?v=4-1psMHSpKs">"How a Lithium Ion Battery Works"</a>, video by Limiting Factor, highly recommended<br>
+&bull;&nbsp;<a href="https://knowledge.electrochem.org/">Eletrochemistry Knowledge</a> from ECS<br>
+&bull;&nbsp;<a href="https://video.austinpbs.org/show/energy-switch/episodes/season/1/">"Energy Switch"</a> from PBS<br>
+&bull;&nbsp;<a href="https://www.linkedin.com/newsletters/this-week-in-batteries-twib-7028855205660172288/">This Week In Batteries</a> (TWIB)<br>
+&bull;&nbsp;<a href="https://www.youtube.com/@EChem_Channel/playlists">EChem Channel</a>, videos for tutorials and fundamentals<br>
+&bull;&nbsp;<a href="https://www.youtube.com/@Pineresearch/playlists">Pine Research</a>, webinars and how-to<br>
 <br>
 <b>Advanced Characterization</b><br>
-&bull;&nbsp;<a href="https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering">Annual Workshop: National School on Neutron and X-ray Scattering</a><br>
-&bull;&nbsp;Diffraction and scattering<br>
+&bull;&nbsp;Annual Workshop: <a href="https://www.anl.gov/education/national-school-on-neutron-and-xray-scattering">National School on Neutron and X-ray Scattering</a><br>
+&bull;&nbsp;<a href="https://www.bnl.gov/nsls2/userguide/lectures/">Joint CFN and NSLS-II Synchrotron Lecture Series</a><br>
+&bull;&nbsp;<a href="https://www.youtube.com/@fundamentalsatssrlandlcls8668/videos">Fundamentals at SSRL and LCLS</a>, videos<br>
+&bull;&nbsp;<a href="https://github.com/bruceravel/XAS-Education">XAS Education Materials</a>, by Dr. Bruce Ravel<br>
 &bull;&nbsp;Spectroscopy<br>
 &bull;&nbsp;Imaging and tomography<br>
+&bull;&nbsp;Diffraction and scattering<br>
+<br>
+<b>Material Science</b><br>
+&bull;&nbsp;<a href="https://www.youtube.com/@FrankHoffmann1000/playlists">The Fascination of Crystals and Symmetry</a>, online course by Dr. Frank Hoffmann<br>
 <br>
 <b>Data Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction on Neural Networks</a><br>
+&bull;&nbsp;<a href="https://www.youtube.com/@fundamentalsatssrlandlcls8668/videos">Making Scientific Figures</a>, videos by Dr. Christopher Gutierrez<br>
 &bull;&nbsp;<a href="https://github.com/donghou-lab/">Our codes on specialized research topics</a><br>
 <br>
 <small> We have made several resources freely available on our website(s). Please feel free to make use of these materials. However, please retain the original attributions, especially when images are re-used. Also, if you use the contents of this website in any significant way for teaching or mentoring, do drop me a note. Please see: <a href="http://en.wikipedia.org/wiki/Fair_use">Fair use</a></small><br>

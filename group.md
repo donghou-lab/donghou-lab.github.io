@@ -35,17 +35,22 @@ say something about yourself.<br>
 <b>Alumni</b>:<br>
 Not this soon..<br>
 <hr>
+<!-- <b>Group Member Awards and Accomplishments</b><br>
+<br>
+<b>Group Member Internships and Employments</b><br>
+<br>
+ -->
+
+<b>Fellowship and Scholarship Opportunities</b><br>
+We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
+&bull;&nbsp;Undergraduates: <a href="https://www.clemson.edu/cecas/students/engagement/opportunities.html">CECAS Opportunity Grants</a>, <a href="https://www.clemson.edu/cuhonors/opportunities/breakthrough-scholars/index.html">Breakthrough Scholars Program</a>, <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/index.html">Creative Inquiry</a>, and many others<br>
+&bull;&nbsp;Graduates: <a href="https://www.clemson.edu/major-fellowships/search-fellowships/index.html">Major Fellowships</a>, <a href="https://science.osti.gov/wdts/scgsr">DOE Office of Science Graduate Student Research (SCGSR) Program</a>, <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program (GRFP)</a>, <a href="https://new.nsf.gov/funding/opportunities/nsf-epscor-graduate-fellowship-program-egfp">NSF EPSCoR Graduate Fellowship Program (EGFP)</a>, and many others<br>
+&bull;&nbsp;Postdocs: <a href="https://new.nsf.gov/funding/postdocs">NSF Postdoctoral Fellowships</a>, <a href="https://efellows.asee.org">American Society for Engineering Education (ASEE) eFellows</a>, <a href="https://www.clemson.edu/research/division-of-research/resources/r-init-sub-pages/research-fellows.html">Clemson Research Fellows</a>, and many others<br>
+<br>
 
 <b>Teamwork</b> leads to proper prefection.<br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
-<br>
-<b>Fellowship and Scholarship Opportunities</b><br>
-We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
-<br>
-<b>Group Member Awards and Accomplishments</b><br>
-<br>
-<b>Group Member Internships and Employments</b><br>
 <br>
 <b>Friends of our lab</b> (at least in my personal perspective)
 <p float="left">
