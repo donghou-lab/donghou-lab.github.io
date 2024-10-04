@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-08-15T20:05:00-05:00
+last_modified_at: 2024-09-15T20:05:00-05:00
 
 toc: false
 
@@ -23,8 +23,8 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>. Lead by Dr. Linqin Mu at ASU and Dr. Feng Lin at Virginia Tech.<br>
-  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2024 and Spring 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
+  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
+  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Spring and Fall 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
   🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction. I will finish up later.<br>
 </div>
 
@@ -44,7 +44,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <!-- <tr><td>2024.09</td><td>text</td></tr> -->
-    <tr><td>2024.08</td><td>A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>. Lead by Dr. Linqin Mu at ASU and Dr. Feng Lin at Virginia Tech.</td></tr>
+    <tr><td>2024.08</td><td>A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>. Lead by Dr. Linqin Mu at ASU, Raphaële Clément at USCB, and Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits of this DOE facility in one year. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou is invited for a talk on Energy Materials for Sustainable Development at the Materials Science & Technology (MS&T24) conference.</td></tr>

@@ -18,3 +18,18 @@ layout: splash
 		<li><a href="https://radicalscholarship.com/2014/12/11/to-my-students-at-the-end-of-the-semester/">Agony to Assign Final Grades</a></li>
 	</ul>
 </blockquote>
+
+<b>Tiger Paw</b> by ASCII Silhouettify<br>
+<body><pre><span style="color: #FF5F00;">             _g__         
+           g@@@@@         
+   _g@@@, 7@@@@@  _~gWg_  
+ .g@@@@@] @@@@@N $@@@@@P  
+ [@@@@@B  &apos;4MD&quot; @@@@@@&quot;   
+  &quot;@DF&quot;  ___ga_ T@@@@&apos;    
+   ,_gg@@@@@@@@`   _ygo@kg
+  @@@@@@@@@@@@@, ,@@@@@@@&apos;
+  9@@@@@@@@@@@@k \@@@@@@  
+   0@@@@@@@@@@@k_ 0@@@&apos;   
+     &lt;@@@@@@@@@@W         
+        &apos;*BBP !&quot;          
+</span></pre></body>
