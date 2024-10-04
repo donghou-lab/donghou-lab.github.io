@@ -4,6 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 <b>Courses</b><br>
+&bull;&nbsp;MSE 3020 Materials Characterization Laboratory (Spring 2025)<br>
 &bull;&nbsp;MSE 3010 Materials Synthesis and Fabrication Laboratory (Fall 2024)<br>
 <br>
 <b>Outreach programs</b><br>
