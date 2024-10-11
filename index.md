@@ -45,7 +45,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <tbody>
     <!-- <tr><td>2024.09</td><td>text</td></tr> -->
     <!-- <tr><td>2024.06</td><td>Dr. Hou is invited for a talk at EMA2025 conference.</td></tr> -->
-    <tr><td>2024.06</td><td>Dr. Hou organizes a symposium at the Materials Science & Technology (MS&T24) conference, and gives an invited talk on "Energy Materials for Sustainable Development" session.</td></tr>
+    <tr><td>2024.10</td><td>Dr. Hou organizes a symposium at the Materials Science & Technology (MS&T24) conference, and gives an invited talk on "Energy Materials for Sustainable Development" session.</td></tr>
     <tr><td>2024.08</td><td>A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>. Lead by Dr. Linqin Mu at ASU, Dr. Raphaële Clément at UCSB, and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits of this DOE facility in one year. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
