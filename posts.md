@@ -3,13 +3,13 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-<strong>2024 Fall</strong>
-Quoted some good words by the students in the MSE3010 evaluation. I'm flattered. Merci!
-&bull;&nbsp;"In lectures with Dr. Hou, he was clear in his explanation of concepts."
-&bull;&nbsp;"The instructor is very good at teaching the material and giving feedback on the reports."
-&bull;&nbsp;"Hou was polite and decent at lecturing. He was happy to answer questions even if the class was not always super interested in the course material ... His lectures were my favorite of the course. I would recommend him to someone taking the lab lectures."
-&bull;&nbsp;"I think everything was very organized and helped my learning."
-&bull;&nbsp;"There were a few fun labs during this course. The inorganic labs that dealt with ceramic processing and mechanical testing were extremely fun and really helped students to understand more about the course and the practices of engineers in industry."
+<strong>2024 Fall</strong><br>
+Quoted some good words by the students in the MSE3010 evaluation. I'm flattered. Merci!<br>
+&bull;&nbsp;"In lectures with Dr. Hou, he was clear in his explanation of concepts."<br>
+&bull;&nbsp;"The instructor is very good at teaching the material and giving feedback on the reports."<br>
+&bull;&nbsp;"Hou was polite and decent at lecturing. He was happy to answer questions even if the class was not always super interested in the course material ... His lectures were my favorite of the course. I would recommend him to someone taking the lab lectures."<br>
+&bull;&nbsp;"I think everything was very organized and helped my learning."<br>
+&bull;&nbsp;"There were a few fun labs during this course. The inorganic labs that dealt with ceramic processing and mechanical testing were extremely fun and really helped students to understand more about the course and the practices of engineers in industry."<br>
 
 <strong>2024 Spring</strong>
 <p align="center">
