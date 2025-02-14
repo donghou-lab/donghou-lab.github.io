@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-09-15T20:05:00-05:00
+last_modified_at: 2025-02-15T20:05:00-05:00
 
 toc: false
 
@@ -24,7 +24,7 @@ feature_row:
 <!-- Update the dates on header section-->
 <div class="notice--success">
   📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
-  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Spring and Fall 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
+  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
   🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction.<br>
 </div>
 
@@ -43,9 +43,14 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <!-- <tr><td>2024.09</td><td>text</td></tr> -->
-    <!-- <tr><td>2024.06</td><td>Dr. Hou is invited for a talk at EMA2025 conference.</td></tr> -->
+    <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
+    <tr><td>2025.02</td><td>Dr. Hou organizes a symposium at EMA2025 conference, and gives an invited talk on "Defects and Transport in Ceramics".
+    invited for a talk at EMA2025 conference.</td></tr>
+    <tr><td>2025.01</td><td>Our proposal to CU-SRNL ELI has been chosen for receiving an award! It allows us to acquire a cutting-edge 3D X-ray microscopy system to study advanced materials and systems. Lead by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
+    <tr><td>2024.12</td><td>Dr. Hou accepts the invitation from <em>Journal of Materials Chemistry A</em> Emerging Investigator Series</td></tr>
+    <tr><td>2024.11</td><td>A collaborative work is accepted for publication in <b><em>ACS Sustainable Chemistry & Engineering</em></b>. Lead by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.10</td><td>Dr. Hou organizes a symposium at the Materials Science & Technology (MS&T24) conference, and gives an invited talk on "Energy Materials for Sustainable Development" session.</td></tr>
+    <tr><td>2024.09</td><td>Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led this configuration and acquisition effort in 2023 and is proud to have made it happen. To the best of our knowledge, for the first time universities in Louisiana have the capacity to conduct in-situ and operando Pair Distribution Function (PDF) analyses specifically tailored for nanomaterials and disordered materials.</td></tr>
     <tr><td>2024.08</td><td>A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>. Lead by Dr. Linqin Mu at ASU, Dr. Raphaële Clément at UCSB, and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits of this DOE facility in one year. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as a NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>

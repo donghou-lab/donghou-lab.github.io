@@ -5,7 +5,7 @@ layout: splash
 <!-- &bull;&nbsp;text<br> -->
 
 <b>Research Theme</b><br>
-We envision addressing key challenges at the intersection of materials, energy, and sustainability. Our research goal is to leverage the advanced characterization tools to understand fundamental materials behavior at the multi-ength scales and engineer novel materials with improved properties for real-world applications in nanoscience and nanotechnology, ceramic engineering, and clean energy technologies.<br>
+We envision addressing key challenges at the intersection of materials, energy, and sustainability. Our research goal is to leverage the advanced characterization tools to understand fundamental materials behavior at the multi-length scales and engineer novel materials with improved properties for real-world applications in nanoscience and nanotechnology, ceramic engineering, and clean energy technologies.<br>
 &bull;&nbsp;Characterization: in situ, operando, multi-modal, multi-dimensional<br>
 &bull;&nbsp;Crystallography: diffraction and scattering<br>
 &bull;&nbsp;Clean energy: batteries, catalysts, fuel cells<br>
@@ -15,7 +15,7 @@ We envision addressing key challenges at the intersection of materials, energy, 
 <b>Funded Research Projects</b><br>
 <img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br>
 <b>Project  Name</b><br>
-Text placeholder here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>
+Text placeholder here.<br>
 
 <hr>
 <b>Past Supports/Projects</b><br>

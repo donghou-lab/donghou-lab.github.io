@@ -14,7 +14,7 @@ layout: splash
 <b>About Clemson University</b><br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/misc/clemson_gallery.pdf">Gallery of our campus</a><br>
 &bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <strong>ranks #1 for the state of South Carolina</strong> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
-&bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br>
+<!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
 
