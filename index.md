@@ -23,7 +23,7 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  📝 <a href="/index.html#brief-news">Grant</a>: Our proposal submission to CU-SRNL ELI has been selected for funding.</em></b>.<br>
+  🌟 <a href="/index.html#brief-news">Grant</a>: Our proposal submission to CU-SRNL ELI has been selected for funding.<br>
   📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
   💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
   🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction.<br>
