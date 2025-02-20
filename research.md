@@ -13,9 +13,9 @@ We envision addressing key challenges at the intersection of materials, energy, 
 
 <hr>
 <b>Funded Research Projects</b><br>
-<img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br>
-<b>Project  Name</b><br>
-Text placeholder here.<br>
+<!-- <img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br> -->
+<b>CU-SRNL ELI Collaboration Initiatives</b><br>
+This grant allows us to purchase a Xradia Versa system to enhances research collaboration between Clemson University and Savannah River National Laboratory (SRNL). Together with SRNL’s Advanced Manufacturing Collaborative, we will work on 3D multi-scale inspection and composition control of additive parts, design and control of interfaces separating immiscible materials in composites. This endeavor is part of the AMIC imaging facility project within Clemson's bold strategic plan toward 2035.<br>
 
 <hr>
 <b>Past Supports/Projects</b><br>
