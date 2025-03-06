@@ -15,18 +15,17 @@ Some good words by the students in the MSE3010 evaluation. I'm flattered. Merci!
   </ul>
 </blockquote>
 
+<hr>
 <strong>News Archive, 2024 Spring</strong>
-<table>
-    <tbody>
-        <tr><td>2024.05</td><td>Dr. Hou chairs the "Na & K Ion Batteries" session at the 245th ECS Meeting.</td></tr>
-        <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
-        <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
-        <tr><td>2024.04</td><td>Our website is online.</td></tr>
-        <tr><td>2024.03</td><td>Dr. Hou organizes a symposium at ACS Spring 2024 meeting in New Orleans, LA.</td></tr>
-        <tr><td>2024.01</td><td>Dr. Hou joines Department of Materials Science and Engineering, Clemson University</td></tr>
-        <tr><td>2023.09</td><td>Dr. Hou organizes a workshop at 2023 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
-  </tbody>
-</table>
+<table><tbody>  
+  <tr><td>2024.05</td><td>Dr. Hou chairs the "Na & K Ion Batteries" session at the 245th ECS Meeting.</td></tr>
+  <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF EPSCoR PI Meeting in Alexandria, VA.</td></tr>
+  <tr><td>2024.05</td><td>Dr. Hou attends 2024 NSF Engineering CAREER Proposal Workshop.</td></tr>
+  <tr><td>2024.04</td><td>Our website is online.</td></tr>
+  <tr><td>2024.03</td><td>Dr. Hou organizes a symposium at ACS Spring 2024 meeting in New Orleans, LA.</td></tr>
+  <tr><td>2024.01</td><td>Dr. Hou joines Department of Materials Science and Engineering, Clemson University</td></tr>
+  <tr><td>2023.09</td><td>Dr. Hou organizes a workshop at 2023 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
+</tbody></table>
 
 <strong>Hightlights, 2024 Spring</strong>
 <p align="center">
