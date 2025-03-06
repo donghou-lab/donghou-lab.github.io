@@ -24,9 +24,9 @@ feature_row:
 <!-- Update the dates on header section-->
 <div class="notice--success">
   💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position</a> openning at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm also looking for self-motivated <a href="/assets/Openings_Students.pdf">Ph.D. students</a> for Fall 2025 and beyond.<br>
-  🌟 <a href="/index.html#brief-news">Grant</a>: Our two proposals have been selected for funding!<br>
-  📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
-  🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction.<br>
+  🌟 <a href="/index.html#recent-news">Grant</a>: Our two proposals have been selected for funding!<br>
+  📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
+  🔊 Announcement: The website is still under construction.<br>
 </div>
 
 ## <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
@@ -41,7 +41,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 &bull;&nbsp;<a href="/products/index.html">Publication list</a><br>
 <!-- Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. -->
 
-## <i class="fa fa-seedling fa-fw"></i>&nbsp;Recent Brief News
+## <i class="fa fa-seedling fa-fw"></i>&nbsp;Recent News
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
