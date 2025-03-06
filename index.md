@@ -23,9 +23,9 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
+  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position openning</a> at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm looking for self-motivated Ph.D. students for Fall 2025.<a href="/assets/Openings.pdf">Flyer</a><br>
   🌟 <a href="/index.html#brief-news">Grant</a>: Our two proposals have been selected for funding!<br>
   📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
-  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated Ph.D. students for Fall 2025. Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. <a href="/assets/Openings.pdf">Flyer</a><br>
   🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction.<br>
 </div>
 
@@ -39,6 +39,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
 &bull;&nbsp;<a href="/group/index.html">Our lab members</a><br>
 &bull;&nbsp;<a href="/research/index.html">Research projects</a><br>
 &bull;&nbsp;<a href="/products/index.html">Publication list</a><br>
+<!-- Full financial support (RA/TA) will be provided. I always welcome undergraduate students to join. -->
 
 ## <i class="fa fa-seedling fa-fw"></i>&nbsp;Recent Brief News
 <table>
