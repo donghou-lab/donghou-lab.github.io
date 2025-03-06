@@ -5,7 +5,7 @@ layout: splash
 <!-- &bull;&nbsp;text<br> -->
 
 <b>Research Theme</b><br>
-We envision addressing key challenges at the intersection of materials, energy, and sustainability. Our research goal is to leverage the advanced characterization tools to understand fundamental materials behavior at the multi-length scales and engineer novel materials with improved properties for real-world applications in nanoscience and nanotechnology, ceramic engineering, and energy technologies.<br>
+We envision addressing key challenges at the intersection of materials, energy, and sustainability. Our research goal is to leverage advanced characterization tools to understand fundamental materials behavior at multi-length scales and engineer novel materials with improved properties for real-world applications in nanoscience and nanotechnology, ceramic engineering, and energy technologies.<br>
 &bull;&nbsp;Characterization: in situ, operando, multi-modal, multi-dimensional<br>
 &bull;&nbsp;Crystallography: diffraction and scattering<br>
 &bull;&nbsp;Energy science: batteries, catalysts, fuel cells<br>
@@ -15,10 +15,10 @@ We envision addressing key challenges at the intersection of materials, energy, 
 <b>Funded Research Projects</b><br>
 <!-- <img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br> -->
 <b>SC EPSCoR Grants for Applications in Industry and Networking (GAIN)</b><br>
-In this grant, we will enhance the performance and durability of critical components in implantable biomedical devices, using data-driven modeling and artificial intelligence (AI)-enabled approaches. This award is part of the NSF funded <b>ADAPT in SC</b> (AI-Enabled Devices for the Advancement for Personalized and Transformative Health Care in South Carolina) project. The vision is to build research capacity at the nexus of AI, life and social sciences, and bioengineering through fundamental research, education, workforce development, and industry engagement.<br>
+In this grant, we will enhance the performance and durability of critical components in implantable biomedical devices, using data-driven modeling and artificial intelligence (AI)-enabled approaches. This award is part of the NSF-funded <b>ADAPT in SC</b> (AI-Enabled Devices for the Advancement for Personalized and Transformative Health Care in South Carolina) project. The vision is to build research capacity at the nexus of AI, life and social sciences, and bioengineering through fundamental research, education, workforce development, and industry engagement.<br>
 
 <b>CU-SRNL ELI Collaboration Initiatives</b><br>
-This grant allows us to purchase a Xradia Versa system to enhances research collaboration between Clemson University and Savannah River National Laboratory (SRNL). Together with SRNL’s Advanced Manufacturing Collaborative, we will work on 3D multi-scale inspection and composition control of additive parts, design and control of interfaces separating immiscible materials in composites. This endeavor is part of the AMIC imaging facility project within Clemson's bold strategic plan toward 2035.<br>
+This grant allows us to purchase an Xradia Versa system to enhance research collaboration between Clemson University and Savannah River National Laboratory (SRNL). Together with SRNL’s Advanced Manufacturing Collaborative, we will work on 3D multi-scale inspection and composition control of additive parts, design and control of interfaces separating immiscible materials in composites. This endeavor is part of the AMIC imaging facility project within Clemson's bold strategic plan toward 2035.<br>
 <h3>More to come…</h3>
 
 <hr>

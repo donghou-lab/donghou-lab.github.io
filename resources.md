@@ -10,14 +10,14 @@ layout: splash
 &bull;&nbsp;Battery test channels<br>
 &bull;&nbsp;Biologic potentiostats<br>
 &bull;&nbsp;Ball mill<br>
-&bull;&nbsp;Box furnace, tube furnaces, vacuum ovens<br>
+&bull;&nbsp;Box furnaces, tube furnaces, vacuum ovens<br>
 <hr>
 <b><em>Shared facilities at Clemson</em>:</b><br>
 <b>Advanced Materials Innovation Complex (AMIC)</b><br>
 <a href="https://cecas.clemson.edu/amic/">AMIC</a> is a proposed new building that establishes Clemson University as a serious R-1 institution in support of the Clemson Elevate strategic plan. It will be the University’s most technologically advanced facility. Our lab will begin to move to AMIC at the end of 2025.<br>
 <br>
 <b>Advanced Materials Research Laboratory (AMRL)</b><br>
-<a href="https://www.clemson.edu/cecas/research/facilities.html">AMRL</a> is an innovative campus and technology park located in Anderson, South Carolina. It is a state-of-the-art facility that houses internationally recognized research programs in optoelectronics, chemistry, and materials science. It houses the nation’s most outstanding <a href="https://www.clemson.edu/research/division-of-research/core-facilities/emf/capabilities/index.html">Electron Microscopy Facilities</a> (EMF) and <a href="https://www.clemson.edu/centers-institutes/comset/index.html">Center for Optical Materials Science and Engineering Technologies</a> (COMSET), offering professional services to private industry and academic clients. Ready access to transmission electron microscopy (TEM), scanning electron microscope (SEM), X-ray photoelectron spectroscopy (XPS), raman spectroscopy, and many others.<br>
+<a href="https://www.clemson.edu/cecas/research/facilities.html">AMRL</a> is an innovative campus and technology park located in Anderson, South Carolina. It is a state-of-the-art facility that houses internationally recognized research programs in optoelectronics, chemistry, and materials science. It houses the nation’s most outstanding <a href="https://www.clemson.edu/research/division-of-research/core-facilities/emf/capabilities/index.html">Electron Microscopy Facilities</a> (EMF) and the <a href="https://www.clemson.edu/centers-institutes/comset/index.html">Center for Optical Materials Science and Engineering Technologies</a> (COMSET), offering professional services to private industry and academic clients. Ready access to transmission electron microscopy (TEM), scanning electron microscope (SEM), X-ray photoelectron spectroscopy (XPS), Raman spectroscopy, and many others.<br>
 <br>
 <b>MSE Characterization and Processing Center</b><br>
 Our department provides analytical and physical testing, manufacturing, fiber extrusion, and processing support and services. Ready access to Panalytical Aeris XRD, 
@@ -43,9 +43,9 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 &bull;&nbsp;<a href="https://drive.google.com/drive/folders/1y9kWHkgu2weYN4rrd0rht8M6A1DnhlmT?usp=drive_link">How to Peer Review</a><br>
 &bull;&nbsp;<a href="https://drive.google.com/drive/folders/1hr6H8XFplQL9IrwvlZ-dYlK7NKcQrTS3?usp=drive_link">How to Publish Your Research</a><br>
 &bull;&nbsp;<a href="https://github.com/jbhuang0604/awesome-tips">Awesome Tips from Dr. Jia-Bin Huang</a>, on Research, Writing, Career, etc.<br>
-&bull;&nbsp;<a href="https://drive.google.com/drive/folders/1Y-cMshtjh4mv5rev_6GD0C7SJO6IO1Qs?usp=drive_link">My Extra Repository</a>, send me a access request<br>
+&bull;&nbsp;<a href="https://drive.google.com/drive/folders/1Y-cMshtjh4mv5rev_6GD0C7SJO6IO1Qs?usp=drive_link">My Extra Repository</a>, send me an access request<br>
 
-<b>Batteries and Eletrochemistry</b><br>
+<b>Batteries and Electrochemistry</b><br>
 &bull;&nbsp;<a href="https://batteryuniversity.com/articles">Battery University</a><br>
 &bull;&nbsp;<a href="https://www.youtube.com/watch?v=4-1psMHSpKs">How a Lithium Ion Battery Works</a>, video by Limiting Factor<br>
 &bull;&nbsp;<a href="https://knowledge.electrochem.org/">Eletrochemistry Knowledge</a>, by ECS<br>
@@ -67,7 +67,7 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 &bull;&nbsp;<a href="https://www.youtube.com/@FrankHoffmann1000/playlists">The Fascination of Crystals and Symmetry</a>, online course by Dr. Frank Hoffmann<br>
 <br>
 <b>Data Science</b><br>
-&bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction on Neural Networks</a><br>
+&bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction to Neural Networks</a><br>
 &bull;&nbsp;<a href="https://www.youtube.com/@fundamentalsatssrlandlcls8668/videos">Making Scientific Figures</a>, videos by Dr. Christopher Gutierrez<br>
 &bull;&nbsp;<a href="https://github.com/donghou-lab/">Our codes</a> on specialized research topics<br>
 <br>

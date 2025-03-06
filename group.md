@@ -5,8 +5,8 @@ layout: splash
 <!-- &bull;&nbsp;text<br> -->
 
 <b>Openings</b><br>
-&bull;&nbsp;<strong>Postdocs</strong> with <strong>proven experience</strong> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), artificial intelligence (machine learning, deep learning, computer vision).<br>
-&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <strong>strong interests</strong> in: energy storage, ceramic engineering, advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
+&bull;&nbsp;<strong>Postdocs</strong> with <strong>proven experience</strong> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
+&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <strong>strong interests</strong> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
 &bull;&nbsp;<strong>Undergraduate</strong> students in MSE or related majors with an interest in the above research topics are <strong>encouraged</strong> to apply.<br>
 &bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcomed to apply.<br>
 <small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2024fall.<br> Please keep your email <strong>concise</strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
@@ -49,9 +49,9 @@ We are committed to workforce training and professional development in STEM fiel
 &bull;&nbsp;Postdocs: <a href="https://new.nsf.gov/funding/postdocs">NSF Postdoctoral Fellowships</a>, <a href="https://efellows.asee.org">American Society for Engineering Education</a> (ASEE) eFellows, <a href="https://www.clemson.edu/research/division-of-research/resources/r-init-sub-pages/research-fellows.html">Clemson Research Fellows</a>, and many others.<br>
 <br>
 
-<b>Teamwork</b> leads to proper prefection.<br> 
+<b>Teamwork</b> leads to proper perfection.<br> 
 <img src="/assets/images/misc/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
-A pit stop, 4 tyres swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
+A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
 <br>
 <b>Friends of our lab</b> (at least in my personal perspective)
 <p float="left">
