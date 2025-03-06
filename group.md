@@ -5,11 +5,11 @@ layout: splash
 <!-- &bull;&nbsp;text<br> -->
 
 <b>Openings</b><br>
-&bull;&nbsp;<strong>Postdocs</strong> with <strong>proven experience</strong> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
-&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <strong>strong interests</strong> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
+&bull;&nbsp;<strong>Postdocs</strong> with <u>proven experience</u> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
+&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <u>strong interests</u> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
 &bull;&nbsp;<strong>Undergraduate</strong> students in MSE or related majors with an interest in the above research topics are <strong>encouraged</strong> to apply.<br>
 &bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcomed to apply.<br>
-<small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2024fall.<br> Please keep your email <strong>concise</strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
+<small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2024fall.<br> Please keep your email <strong><u>concise</u></strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
 
 <b>About Clemson University</b><br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/misc/clemson_gallery.pdf">Gallery of our campus</a><br>
@@ -29,7 +29,7 @@ Education: B.S., xxx University (2020)<br>
 say something about yourself.<br>
 <br>
 <b>Undergraduates</b>:<br>
-<img src="/assets/placeholder_2.jpg" alt="placeholder_2"><br>
+<img src="/assets/placeholder_1.jpg" alt="placeholder_1"><br>
 JaneDoe3, Spring 2024, (xxx@clemson.edu)<br>
 say something about yourself.<br>
 <br>
@@ -45,8 +45,8 @@ Not this soon..<br>
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
 &bull;&nbsp;Undergraduates: <a href="https://www.clemson.edu/cecas/students/engagement/opportunities.html">CECAS Opportunity Grants</a>, <a href="https://www.clemson.edu/cuhonors/opportunities/breakthrough-scholars/index.html">Breakthrough Scholars Program</a>, <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/index.html">Creative Inquiry</a>, and many others.<br>
-&bull;&nbsp;Graduates: <a href="https://www.clemson.edu/major-fellowships/search-fellowships/index.html">Major Fellowships</a>, <a href="https://science.osti.gov/wdts/scgsr">DOE Office of Science Graduate Student Research</a> (SCGSR) Program, <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> (GRFP), <a href="https://new.nsf.gov/funding/opportunities/nsf-epscor-graduate-fellowship-program-egfp">NSF EPSCoR Graduate Fellowship Program</a> (EGFP), and many others.<br>
-&bull;&nbsp;Postdocs: <a href="https://new.nsf.gov/funding/postdocs">NSF Postdoctoral Fellowships</a>, <a href="https://efellows.asee.org">American Society for Engineering Education</a> (ASEE) eFellows, <a href="https://www.clemson.edu/research/division-of-research/resources/r-init-sub-pages/research-fellows.html">Clemson Research Fellows</a>, and many others.<br>
+&bull;&nbsp;Graduates: <a href="https://www.clemson.edu/major-fellowships/search-fellowships/index.html">Major Fellowships</a>, DOE Office of Science Graduate Student Research (<a href="https://science.osti.gov/wdts/scgsr">SCGSR</a>) Program, NSF Graduate Research Fellowship Program (<a href="https://www.nsfgrfp.org/">GRFP</a>), NSF EPSCoR Graduate Fellowship Program (<a href="https://new.nsf.gov/funding/opportunities/nsf-epscor-graduate-fellowship-program-egfp">EGFP</a>), and many others.<br>
+&bull;&nbsp;Postdocs: <a href="https://new.nsf.gov/funding/postdocs">NSF Postdoctoral Fellowships</a>, American Society for Engineering Education (<a href="https://efellows.asee.org">ASEE</a>) eFellows, <a href="https://www.clemson.edu/research/division-of-research/resources/r-init-sub-pages/research-fellows.html">Clemson Research Fellows</a>, and many others.<br>
 <br>
 
 <b>Teamwork</b> leads to proper perfection.<br> 

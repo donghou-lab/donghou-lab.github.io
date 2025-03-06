@@ -12,8 +12,8 @@ feature_row:
     excerpt: "
     ***Dong Hou***<br>
     Assistant Professor<br><br>
-    [Deparment of Materials Science and Engineering](https://www.clemson.edu/cecas/departments/mse/index.html)(MSE)<br>
-    [College of Engineering, Computing, and Applied Sciences](https://www.clemson.edu/cecas/index.html) (CECAS)<br>
+    Deparment of Materials Science and Engineering ([MSE](https://www.clemson.edu/cecas/departments/mse/index.html))<br>
+    College of Engineering, Computing, and Applied Sciences ([CECAS](https://www.clemson.edu/cecas/index.html))<br>
     Clemson University<br>
     [Email me](mailto:hou4@clemson.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?hl=en&user=wc392IUAAAAJ){: .btn .btn--inverse}
@@ -23,7 +23,7 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position openning</a> at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm looking for self-motivated Ph.D. students for Fall 2025.<a href="/assets/Openings.pdf">Flyer</a><br>
+  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position</a> openning at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm also looking for self-motivated <a href="/assets/Openings_Students.pdf">Ph.D. students</a> for Fall 2025 and beyond.<br>
   🌟 <a href="/index.html#brief-news">Grant</a>: Our two proposals have been selected for funding!<br>
   📝 <a href="/index.html#brief-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
   🔊 <a href="/index.html#brief-news">Announcement</a>: The website is still under construction.<br>
