@@ -23,7 +23,7 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position</a> openning at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm also looking for self-motivated <a href="/assets/Openings_Students.pdf">Ph.D. students</a> for Fall 2025 and beyond.<br>
+  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm also looking for self-motivated <a href="/assets/Openings_Students.pdf">Ph.D. students</a> for Fall 2025 and beyond.<br>
   🌟 <a href="/index.html#recent-news">Grant</a>: Our two proposals have been selected for funding!<br>
   📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
   🔊 Announcement: The website is still under construction.<br>

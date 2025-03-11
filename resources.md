@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 
-<b>Lab instruments: </b><a href="/assets/placeholder.jpg">Summary slide coming soon</a><br>
+<b>Lab instruments: </b><a href="/assets/placeholder_2.jpg">Summary slide coming soon</a><br>
 &bull;&nbsp;Battery fabrication and assembly line<br>
 &bull;&nbsp;Glovebox<br>
 &bull;&nbsp;Battery test channels<br>
@@ -69,6 +69,7 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 <b>Data Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction to Neural Networks</a><br>
 &bull;&nbsp;<a href="https://www.youtube.com/@fundamentalsatssrlandlcls8668/videos">Making Scientific Figures</a>, videos by Dr. Christopher Gutierrez<br>
+&bull;&nbsp;Greek Alphabet, <a href="https://www.youtube.com/watch?v=PStgY5AcEIw">Math/Science Version</a>, <a href="https://www.youtube.com/watch?v=Hib0gWqNBmA">Greek Version</a><br>
 &bull;&nbsp;<a href="https://github.com/donghou-lab/">Our codes</a> on specialized research topics<br>
 <br>
 <small> We have made several resources freely available on our website(s). Please feel free to make use of these materials. However, please retain the original attributions, especially when images are re-used. Also, if you use the contents of this website in any significant way for teaching or mentoring, do drop me a note. Please see: <a href="http://en.wikipedia.org/wiki/Fair_use">Fair use</a></small><br>

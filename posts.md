@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 <strong>2024 Fall</strong><br>
-Some good words by the students in the MSE3010 evaluation. I'm flattered. Merci!<br>
+Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci!<br>
 <blockquote>
   <ul>
     <li>"In lectures with Dr. Hou, he was clear in his explanation of concepts."</li>
