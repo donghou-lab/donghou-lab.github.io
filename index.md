@@ -52,12 +52,12 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
     <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
     <tr><td>2024.12</td><td>Dr. Hou accepts the invitation from <em>Journal of Materials Chemistry A</em> <b>Emerging Investigator</b> Series</td></tr>
     <tr><td>2024.11</td><td>A collaborative work is accepted for publication in <b><em>ACS Sustainable Chemistry & Engineering</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
-    <tr><td>2024.10</td><td>Dr. Hou starts serving on ACerS Basic Science Division's Committee.</td></tr>    
     <tr><td>2024.10</td><td>Dr. Hou chairs a symposium session at the Materials Science & Technology (MS&T24) conference, and gives an invited talk on "Energy Materials for Sustainable Development".</td></tr>
+    <tr><td>2024.09</td><td>Dr. Hou starts serving on ACerS Basic Science Division's Committee.</td></tr>    
     <tr><td>2024.08</td><td>A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>. Led by Dr. Linqin Mu at ASU, Dr. Raphaële Clément at UCSB, and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits to this DOE facility. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as an NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.06</td><td>A collaborative work is accepted for publication in <b><em>Advanced Energy Materials</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
-    <a href="/posts/index.html">More Archived News
   </tbody>
 </table>
+<a href="/posts/index.html">More Archived News

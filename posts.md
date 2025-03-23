@@ -16,7 +16,7 @@ Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci
 </blockquote>
 <b>2024 Fall, Rigaku Diffractometer at UL Lafayette</b>:<br>
 <img alt="Rigaku_XRD" src="/assets/images/202412_Rigaku_XRD.jpg" width=720px><br>
-Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led the configuration and acquisition effort in 2023 and is proud to have made it happen. To the best of our knowledge, for the first time universities in Louisiana can conduct in situ and operando Pair Distribution Function (PDF) analyses specifically tailored for nanomaterials and disordered materials.<br>
+Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led the configuration and acquisition effort in 2023 and is proud to have made it happen. To the best of our knowledge, <u>for the first time universities in Louisiana</u> can conduct in situ and operando Pair Distribution Function (PDF) analyses specifically tailored for nanomaterials and disordered materials.<br>
 
 <hr>
 <strong>News Archive, 2024 Spring</strong>
