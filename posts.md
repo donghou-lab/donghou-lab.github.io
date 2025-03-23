@@ -3,7 +3,7 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-<strong>2024 Fall</strong><br>
+<strong>News Archive, 2024 Fall</strong><br>
 Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci!<br>
 <blockquote>
   <ul>
@@ -14,6 +14,9 @@ Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci
     <li>"There were a few fun labs during this course. The inorganic labs that dealt with ceramic processing and mechanical testing were extremely fun and really helped students to understand more about the course and the practices of engineers in industry."</li>
   </ul>
 </blockquote>
+<b>2024 Fall, Rigaku Diffractometer at UL Lafayette</b>:<br>
+<img alt="Rigaku_XRD" src="/assets/images/202412_Rigaku_XRD.jpg" width=720px><br>
+Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led the configuration and acquisition effort in 2023 and is proud to have made it happen. To the best of our knowledge, for the first time universities in Louisiana can conduct in situ and operando Pair Distribution Function (PDF) analyses specifically tailored for nanomaterials and disordered materials.<br>
 
 <hr>
 <strong>News Archive, 2024 Spring</strong>
