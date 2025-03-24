@@ -58,6 +58,6 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits to this DOE facility. We will perform synchrotron experiments on batteries.</td></tr>
     <tr><td>2024.06</td><td>Dr. Hou serves as an NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
     <tr><td>2024.06</td><td>A collaborative work is accepted for publication in <b><em>Advanced Energy Materials</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
+    <tr><td>earlier</td><td><a href="/posts/index.html">More Archived News</td></tr>
   </tbody>
 </table>
-<a href="/posts/index.html">More Archived News
