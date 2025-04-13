@@ -30,7 +30,7 @@ Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafa
   <tr><td>2023.09</td><td>Dr. Hou organizes a workshop at the 2023 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
 </tbody></table>
 
-<strong>Highlights, 2024 Spring</strong>
+<strong>Highlights, 2024 Spring</strong><br>
 <img alt="ACS_Spring" src="/assets/images/202404_ACS_Spring.jpg" width=720px><br>
 &bull;&nbsp;Dr. Hou organized a symposium "Energy Storage Systems: In-Situ Characterization Studies", with Dr. Yijin Liu from UT Austin. The symposium was hosted at the ACS Spring 2024 meeting for Energy and Fuels Division (ENFL) in New Orleans, LA.<br>
 &bull;&nbsp;With a theme of "Many Flavors of Chemistry", this conference has 29 technical divisions, 11779 accepted abstracts, including 7389 oral and 4390 poster presentations. We thoroughly enjoyed the conference.<br>
