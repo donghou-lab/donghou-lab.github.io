@@ -16,7 +16,7 @@ Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci
 </blockquote>
 <b>2024 Fall, Rigaku Diffractometer at UL Lafayette</b>:<br>
 <img alt="Rigaku_XRD" src="/assets/images/202412_Rigaku_XRD.jpg" width=720px><br>
-Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led the configuration and acquisition effort in 2023 and is proud to have made it happen. To the best of our knowledge, <u>for the first time universities in Louisiana</u> can conduct in situ and operando Pair Distribution Function (PDF) analyses specifically tailored for nanomaterials and disordered materials.<br>
+Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafayette. Dr. Hou led the configuration and acquisition effort in 2023 (supported by Louisiana BoRSF) and is proud to have made it happen. To the best of our knowledge, <u>for the first time universities in Louisiana</u> can conduct in situ and operando Pair Distribution Function (PDF) analyses dedicated to disordered materials on campus.<br>
 
 <hr>
 <strong>News Archive, 2024 Spring</strong>
@@ -31,10 +31,7 @@ Glad to know the SmartLab SE System from Rigaku was established at IMRI, UL Lafa
 </tbody></table>
 
 <strong>Highlights, 2024 Spring</strong>
-<p align="center">
-  <img alt="NOLA_1" src="/assets/images/202404_ACS_spring_1.jpg" width=360px>
-  <img alt="NOLA_2" src="/assets/images/202404_ACS_spring_2.jpg" width=360px>
-</p>
+<img alt="ACS_Spring" src="/assets/images/202404_ACS_Spring.jpg" width=720px><br>
 &bull;&nbsp;Dr. Hou organized a symposium "Energy Storage Systems: In-Situ Characterization Studies", with Dr. Yijin Liu from UT Austin. The symposium was hosted at the ACS Spring 2024 meeting for Energy and Fuels Division (ENFL) in New Orleans, LA.<br>
 &bull;&nbsp;With a theme of "Many Flavors of Chemistry", this conference has 29 technical divisions, 11779 accepted abstracts, including 7389 oral and 4390 poster presentations. We thoroughly enjoyed the conference.<br>
 

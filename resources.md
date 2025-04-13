@@ -4,7 +4,7 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 
-<b>Lab instruments: </b><a href="/assets/placeholder_2.jpg">Summary slide coming soon</a><br>
+<b>Lab instruments: </b><a href="/assets/misc/placeholder_2.jpg">Summary slide coming soon</a><br>
 &bull;&nbsp;Battery fabrication and assembly line<br>
 &bull;&nbsp;Glovebox<br>
 &bull;&nbsp;Battery test channels<br>

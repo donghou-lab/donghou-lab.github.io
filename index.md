@@ -8,7 +8,7 @@ sidebar:
   nav: "homepage"
 
 feature_row:
-  - image_path: /assets/images/misc/DongHou_Profile.jpg
+  - image_path: /assets/misc/DongHou_Profile.jpg
     excerpt: "
     ***Dong Hou***<br>
     Assistant Professor<br><br>
@@ -23,7 +23,7 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  💡 <a href="/group/index.html">Openings</a>: We have a <a href="/assets/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/AMIC_Flyer_202501.pdf">AMIC</a>. I'm also looking for self-motivated <a href="/assets/lab_openings.pdf">Ph.D. students</a> for Fall 2025 and beyond.<br>
+  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> for Spring 2026 and beyond.<br>
   🌟 <a href="/index.html#recent-news">Grant</a>: Our two proposals have been selected for funding!<br>
   📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
   🔊 Announcement: The website is still under construction.<br>
@@ -49,6 +49,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
     <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>
     <tr><td>2025.03</td><td>Our single-PI proposal was selected for funding by the SC EPSCoR. This project will focus on implantable medical devices and healthcare.</td></tr>
     <tr><td>2025.02</td><td>Dr. Hou chairs a symposium session at the Electronic Materials and Applications (EMA2025) conference, and gives an invited talk on "Defects and Transport in Ceramics".</td></tr>
+    <tr><td>2025.02</td><td>We have a <a href="/assets/docs/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/docs/AMIC_Flyer_202501.pdf">AMIC</a>. (Update: filled)</td></tr>
     <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
     <tr><td>2024.12</td><td>Dr. Hou accepts the invitation from <em>Journal of Materials Chemistry A</em> <b>Emerging Investigator</b> Series</td></tr>
     <tr><td>2024.11</td><td>A collaborative work is accepted for publication in <b><em>ACS Sustainable Chemistry & Engineering</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>

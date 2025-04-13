@@ -8,7 +8,7 @@ layout: splash
 &bull;&nbsp;MSE 3010 Materials Synthesis and Fabrication Laboratory (Fall 2024)<br>
 <br>
 <b>Outreach programs</b><br>
-&bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024<br>
+&bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024/2025<br>
 &bull;&nbsp;Virginia Tech Research Experiences for Undergraduates (REU), KAUST Gifted Student Program, Summer 2021<br>
 <hr>
 <!-- I’m proud of my mentees and all they have accomplished -->
@@ -22,7 +22,8 @@ layout: splash
 </blockquote>
 
 <b>Tiger Paw</b> by ASCII Silhouettify<br>
-<body><pre><span style="color: #FF5F00;">             _g__         
+<body><pre><span style="color: #FF5F00;">
+             _g__         
            g@@@@@         
    _g@@@, 7@@@@@  _~gWg_  
  .g@@@@@] @@@@@N $@@@@@P  
