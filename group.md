@@ -21,10 +21,7 @@ layout: splash
 
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_member_1.jpg" alt="Member" hight="240 px"><br>
-<b>Ph.D.: Bryson Hedrick</b><br>
-Education: B.S., Appalachian State University (2024)<br>
-LinkedIn: https://www.linkedin.com/in/bryson-scott-hedrick/<br>
+<img src="/assets/group/placeholder_member_1.jpg" alt="Member" hight="160 px"><br>
 <br>
 <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>
