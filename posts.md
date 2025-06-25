@@ -3,6 +3,21 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
+<strong>News Archive, 2025 Spring</strong><br>
+Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
+<blockquote>
+  <ul>
+    <li>Dr. Hou does a good job of communicating what is expected to use. He is easy to understand in lecture and is very willing to help with any lab report questions. His feedback on the lab reports has, also, been very help allowing us to know how to make the next one better.</li>
+    <li>I enjoy all the labs and I enjoyed all the experience I have gained from this class. He enjoys his job and it shows. He is very smart and wants us to gain a lot of experience with the equipment we used in the labs. Even though this is a required class I recommend it to everyone.</li>
+    <li>I enjoyed Dr. Hou's lectures and appreciated his effort to engage the class with relevant information before we went into the lab.</li>
+    <li>Dr. Hou communicated his expectations regarding both individual and group lab reports. He informed us of mistakes and areas of improvement before taking significant points off of our reports. There was a learning curve and he gave the students the chance to do so without significantly suffering grades.</li>
+    <li>The labs were well-made, and had good instruction on how to report the findings in the post-lab report.</li>
+    <li>I think the lectures were great but I think he makes the questions for the finals a bit much. </li>
+    <li>I learned a lot about important things for my future!</li>
+    <li>The course went smoothly and I feel like we learned a ton of information that will be useful in the industry.</li>
+  </ul>
+</blockquote>
+
 <strong>News Archive, 2024 Fall</strong><br>
 Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci!<br>
 <blockquote>

@@ -14,17 +14,20 @@ layout: splash
 <b>About Clemson University</b><br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
 &bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
+&bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
 
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_wide.jpg" alt="placeholder_wide"><br>
-<b>Ph.D.: JaneDoe1 </b>, Fall 2025, (xxx@clemson.edu)<br>
-Education: M.S., xxx University (2023), B.S., xxx University (2020)<br>
-say something about yourself.<br>
-<b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
+<img src="/assets/group/placeholder_members.jpg" alt="Members"><br>
+<b>Ph.D.: Bryson Hedrick</b><br>
+Education: B.S., Appalachian State University (2024)<br>
+Bryson is from a background of physics, where he worked in optical tweezers at Appalachian State and nanofabrication at UT-ORII. Specifically, his research project is on machine learning, ceramics, and image processing. He does hiking, primitive living skills, climbing, foraging, DnD, and coding in his free time.<br>
+LinkedIn: https://www.linkedin.com/in/bryson-scott-hedrick/
+<br>
+<!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>
 say something about yourself.<br>
 <br>
@@ -32,7 +35,7 @@ say something about yourself.<br>
 <img src="/assets/group/placeholder_wide.jpg" alt="placeholder_wide"><br>
 JaneDoe3, Fall 2025, (xxx@clemson.edu)<br>
 say something about yourself.<br>
-<br>
+<br> -->
 <b>Alumni</b>:<br>
 Not this soon..<br>
 <hr>
