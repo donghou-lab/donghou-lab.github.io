@@ -21,10 +21,9 @@ layout: splash
 
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_members.jpg" alt="Members"><br>
+<img src="/assets/group/placeholder_member_1" alt="Member" width="480 px"><br>
 <b>Ph.D.: Bryson Hedrick</b><br>
 Education: B.S., Appalachian State University (2024)<br>
-Bryson is from a background of physics, where he worked in optical tweezers at Appalachian State and nanofabrication at UT-ORII. Specifically, his research project is on machine learning, ceramics, and image processing. He does hiking, primitive living skills, climbing, foraging, DnD, and coding in his free time.<br>
 LinkedIn: https://www.linkedin.com/in/bryson-scott-hedrick/
 <br>
 <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
