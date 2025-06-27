@@ -46,7 +46,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
-    <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in Milan, Italy and IPDPS 2025 in London, UK. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
+    <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in London, UK and IPDPS 2025 in Milan, Italy. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
     <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>
     <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>
     <tr><td>2025.03</td><td>Our single-PI proposal was selected for funding by the SC EPSCoR. This project will focus on implantable medical devices and healthcare.</td></tr>
