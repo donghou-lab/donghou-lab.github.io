@@ -21,7 +21,7 @@ layout: splash
 
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px"><br>
+<img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px" /><br>
 <br>
 <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>
