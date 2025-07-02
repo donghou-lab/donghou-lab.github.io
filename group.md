@@ -3,22 +3,6 @@ title: "Group"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-
-<b>Openings</b><br>
-&bull;&nbsp;<strong>Postdocs</strong> with <u>proven experience</u> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
-&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <u>strong interests</u> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
-&bull;&nbsp;<strong>Undergraduate</strong> students in MSE or related majors with an interest in the above research topics are <u>encouraged</u> to apply.<br>
-&bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcomed to apply.<br>
-<small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2025fall.<br> Please keep your email <strong><u>concise</u></strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
-
-<b>About Clemson University</b><br>
-&bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
-&bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
-&bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
-<!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
-<!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
-<hr>
-
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
 <img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px" /><br>
@@ -40,6 +24,20 @@ Not this soon..<br>
 <b>Group Member Internships and Employments</b><br>
 <br>
  -->
+<b>Possible Openings</b><br>
+&bull;&nbsp;<strong>Postdocs</strong> with <u>proven experience</u> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
+&bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <u>strong interests</u> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
+&bull;&nbsp;<strong>Undergraduate</strong> students in MSE or related majors with an interest in the above research topics are <u>encouraged</u> to apply.<br>
+&bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcomed to apply.<br>
+<small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2025fall.<br> Please keep your email <strong><u>concise</u></strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
+
+<b>About Clemson University</b><br>
+&bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
+&bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
+&bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
+<!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
+<!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
+<hr>
 
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
