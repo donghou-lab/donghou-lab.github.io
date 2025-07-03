@@ -5,8 +5,18 @@ layout: splash
 <!-- &bull;&nbsp;text<br> -->
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px" /><br>
+<div style="display: flex; align-items: center;">
+  <img src="assets/group/placeholder_member_BH.jpg" alt="Image" style="max-width: 200px; margin-right: 20px;">
+  <div>
+    <h2>Ph.D.: Bryson Hedrick</h2>
+    <p>B.S., Appalachian State University (2024)<br>
+    Bryson is from a background of physics, where he worked in optical tweezers at Appalachian State and nanofabrication at UT-ORII. Specifically, his research project is on machine learning, ceramics, and image processing. He does hiking, primitive living skills, climbing, foraging, DnD, and coding in his free time.</p>
+  </div>
+</div>
+<!-- <img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px" /><br>
 <br>
+ -->
+
 <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>
 say something about yourself.<br>
