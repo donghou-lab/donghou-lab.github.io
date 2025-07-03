@@ -6,7 +6,7 @@ layout: splash
 <b>Lab Members</b><br>
 <b>Graduates</b>:<br>
 <div style="display: flex; align-items: center;">
-  <img src="assets/group/placeholder_member_BH.jpg" alt="Image" style="max-width: 200px; margin-right: 20px;">
+  <img src="assets/group/placeholder_member_BH.jpg" alt="member_BH">
   <div>
     <p><b>Ph.D.: Bryson Hedrick</b><br>
     B.S., Appalachian State University (2024)<br>
