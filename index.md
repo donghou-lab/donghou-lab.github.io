@@ -24,8 +24,8 @@ feature_row:
 <!-- Update the dates on header section-->
 <div class="notice--success">
   💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> for Spring 2026 and beyond.<br>
-  🌟 <a href="/index.html#recent-news">Grant</a>: Our two proposals have been selected for funding!<br>
-  📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br>
+  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship!<br>
+  <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
 </div>
 
@@ -46,6 +46,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
+    <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design.</td></tr>
     <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in London, UK and IPDPS 2025 in Milan, Italy. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
     <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>
     <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>

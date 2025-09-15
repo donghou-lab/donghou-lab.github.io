@@ -23,6 +23,7 @@ author_profile: true
 &bull;&nbsp;A week is 2% of the year. Time flies.<br>
 &bull;&nbsp;Enthusiasm and motivation matter.<br>
 &bull;&nbsp;To achieve great things, you need a plan and not quite enough time.<br>
+&bull;&nbsp;You miss 100% of the shots you don't take.<br>
 <br>
 <b>Fun facts about me:</b><br>
 &bull;&nbsp;In my spare time, I enjoy music, reading, hiking, and traveling, to explore and appreciate the beauty of life.<br>
