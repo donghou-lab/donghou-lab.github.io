@@ -4,9 +4,15 @@ layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
 <b>Lab Members</b><br>
-<b>Graduates</b>:<br>
-<img src="/assets/group/placeholder_member_1.jpg" alt="Member" height="160 px" /><br>
+<img src="/assets/group/placeholder_members.jpg" alt="Member" height="160 px" /><br>
+<b>Assistant Research Professor</b>: Dr. Dillip Kumar Panda<br>
+Postdoc: University of Michigan, Florida State University<br>
+Ph.D., University of Wollongong (2011)<br>
+Dr. Panda’s research centers on developing high-temperature, all-solid-state lithium batteries for electric vehicles and advancing material discovery for anodes, solid-state electrolytes, and cathodes. As a materials scientist and electrochemist, his work also spans polymer-derived ceramics, conducting polymers, nanomaterials, metal–organic frameworks (MOFs), and sensors, with expertise in various types of solar cells and supercapacitors. He has authored more than 35 peer-reviewed journal publications and contributed four book chapters. In recognition of his research excellence, Dr. Panda received the Clemson University Distinguished Postdoctoral Award in 2022. Beyond his research, Dr. Panda is passionate about teaching, mentoring, and collaborating with Ph.D. and undergraduate students. In his leisure time, he enjoys listening to music and writing poetry and prose in Odia.<a href="https://www.linkedin.com/in/dr-dillip-kumar-panda-a4217b56/">LinkedIn</a><br>
 <br>
+<b>Graduate Student</b>: Bryson Hedrick<br>
+B.S., Appalachian State University (2024)<br>
+Bryson is from a background of physics, where he worked in optical tweezers at Appalachian State and nanofabrication at UT-ORII. Specifically, his research project is on machine learning, ceramics, and image processing. He does hiking, primitive living skills, climbing, foraging, DnD, and coding in his free time. <a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br>
 
 <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
 Education: B.S., xxx University (2020)<br>

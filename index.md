@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2025-03-15T20:05:00-05:00
+last_modified_at: 2025-10-15T20:05:00-05:00
 
 toc: false
 
@@ -46,7 +46,11 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
-    <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design.</td></tr>
+    <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR Research Incubators for STEM Excellence (E-RISE) program funding competition.</td></tr>
+    <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference and BNL PRP Panelist</td></tr> -->
+    <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
+    <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
+    <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>
     <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in London, UK and IPDPS 2025 in Milan, Italy. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
     <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>
     <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>
