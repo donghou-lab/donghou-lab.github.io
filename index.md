@@ -35,7 +35,7 @@ feature_row:
 📘 I love teaching. <a href="/teaching/index.html">Courses and Outreach</a><br>
 
 ## <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
-For <b><em>DHLab</em></b>, the research goal is to understand and control materials properties for electrochemical energy applications, as well as to contribute to the fundamental progress of materials electrochemistry and solid-state physics. The research projects cover the design and synthesis, processing, characterization, and applications of energy materials (e.g., batteries, catalysis, ferroelectrics, and capacitors).<br>
+At <b><em>DHLab</em></b>, our research aims to understand and control material properties for electrochemical energy applications, while advancing the fundamental knowledge of materials electrochemistry and solid-state physics. Our projects span the design, synthesis, processing, characterization, and application of cutting-edge energy materials, including those used in batteries, catalysis, ferroelectrics, and capacitors.<br>
 &bull;&nbsp;<a href="/group/index.html">Our lab members</a><br>
 &bull;&nbsp;<a href="/research/index.html">Research projects</a><br>
 &bull;&nbsp;<a href="/products/index.html">Publication list</a><br>
@@ -47,7 +47,7 @@ For <b><em>DHLab</em></b>, the research goal is to understand and control materi
   <tbody>
     <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
     <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR Research Incubators for STEM Excellence (E-RISE) program funding competition.</td></tr>
-    <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference and BNL PRP Panelist</td></tr> -->
+    <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference</td></tr> -->
     <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
     <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
     <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>

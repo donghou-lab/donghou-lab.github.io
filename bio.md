@@ -5,7 +5,7 @@ author_profile: true
 ---
 <p style="width: 640px height=160px">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7269043.22949187!2d-82.34397596421735!3d34.57944336911884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e1135ab658d%3A0x8d3219cb792a8e56!2sClemson%20University!5e0!3m2!1sen!2sus!4v1715472447720!5m2!1sen!2sus" width="320px" height="160px" style="border:0;float: left;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<small><address>Visit us at:<br>161 Sirrine Hall<br>Clemson, SC 29634-0971<br>Lab: 104 Olin Hall<br></address></small>
+	<small><address>Visit us at:<br>115 South Palmetto Blvd.<br>Clemson, SC 29634-0971<br>Lab: AMIC 4221 and Olin Hall 104<br></address></small>
 </p>
 <hr>
 <b>Professional preparation:</b><br>
