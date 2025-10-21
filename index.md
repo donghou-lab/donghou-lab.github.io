@@ -46,7 +46,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
     <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
-    <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR Research Incubators for STEM Excellence (E-RISE) program funding competition.</td></tr>
+    <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
     <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference</td></tr> -->
     <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
     <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
@@ -64,7 +64,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
     <tr><td>2024.09</td><td>Dr. Hou starts serving on ACerS Basic Science Division's Committee.</td></tr>    
     <tr><td>2024.08</td><td>A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>. Led by Dr. Linqin Mu at ASU, Dr. Raphaële Clément at UCSB, and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits to this DOE facility. We will perform synchrotron experiments on batteries.</td></tr>
-    <tr><td>2024.06</td><td>Dr. Hou serves as an NSF panelist and lead reviewer for the EPSCoR Research Fellows (ERF) funding competition.</td></tr>
+    <tr><td>2024.06</td><td>Dr. Hou serves as an NSF panelist and lead reviewer for the EPSCoR funding competition.</td></tr>
     <tr><td>2024.06</td><td>A collaborative work is accepted for publication in <b><em>Advanced Energy Materials</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>earlier</td><td><a href="/posts/index.html">More Archived News</a></td></tr>
   </tbody>
