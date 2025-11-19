@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2025-10-15T20:05:00-05:00
+last_modified_at: 2025-11-15T20:05:00-05:00
 
 toc: false
 
@@ -45,9 +45,10 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <!-- <tr><td>2025.0x</td><td>text</td></tr> -->
-    <!-- <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr> -->
     <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference</td></tr> -->
+    <tr><td>2025.11</td><td>Dr. Hou gave an invited seminar at UConn. Much appreciation to: MSE Department Head Dr. Dongare, the faculty members, and students.</td></tr>
+    <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
+    <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
     <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
     <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
     <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>
