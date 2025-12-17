@@ -10,7 +10,10 @@ layout: splash
 <b>Outreach programs</b><br>
 &bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024/2025<br>
 &bull;&nbsp;Virginia Tech Research Experiences for Undergraduates (REU), KAUST Gifted Student Program, Summer 2021<br>
+<br>
+Beautiful physics demonstrations from <a href="https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html">Show the Physics</a>
 <hr>
+
 <!-- I’m proud of my mentees and all they have accomplished -->
 <blockquote>
 	<ul>

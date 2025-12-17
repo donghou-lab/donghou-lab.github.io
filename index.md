@@ -45,7 +45,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <!-- <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference</td></tr> -->
+    <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a>(<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
     <tr><td>2025.11</td><td>Dr. Hou gave an invited seminar at UConn. Much appreciation to: MSE Department Head Dr. Dongare, the faculty members, and students.</td></tr>
     <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
     <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>

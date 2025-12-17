@@ -42,6 +42,10 @@ Not this soon..<br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
 &bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
 &bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
+&bull;&nbsp;Clemson University <a href="https://www.clemson.edu/administration/bot/about/values-statement.html">Core Values</a>: Integrity; Respect; Diversity; Patriotism; Excellence; Self-Reliance.<br>
+&bull;&nbsp;Website intro of our <a href="https://blogs.clemson.edu/mseclemson/welcome-to-mse/">MSE Program</a>. Also check our <a href="https://www.youtube.com/watch?v=9CvqwXfmNPZI">video</a>.<br>
+&bull;&nbsp;Clemson MSE <a href="https://www.youtube.com/watch?v=un7UvV7_hn0">Facilities Tour</a> video 2024. Clemson CECAS <a href="https://www.youtube.com/@ClemsonCECAS/videos">Youtube Videos</a>.<br>
+
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
@@ -66,3 +70,6 @@ A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthf
 &bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
 &bull;&nbsp;Wolfpack, Think and Do<br>
+
+<!-- <b>Where are we from:</b>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> -->

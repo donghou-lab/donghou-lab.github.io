@@ -14,7 +14,8 @@ layout: splash
 <hr>
 <b><em>Shared facilities at Clemson</em>:</b><br>
 <b>Advanced Materials Innovation Complex (AMIC)</b><br>
-<a href="https://cecas.clemson.edu/amic/">AMIC</a> is a proposed new building that establishes Clemson University as a serious R-1 institution in support of the Clemson Elevate strategic plan. It will be the University’s most technologically advanced facility. Our lab will begin to move to AMIC at the end of 2025.<br>
+<a href="https://cecas.clemson.edu/amic/">AMIC</a> is Clemson University’s most advanced research facility, supporting the Clemson Elevate strategic plan and strengthening its R1 research mission. With 143,000 square feet of state-of-the-art labs and cutting-edge technologies, including nanomechanical, optoelectronic and 3D X-ray imaging,  AMIC is Clemson’s largest research footprint and a key driver for advanced materials research and workforce development. Our brand-new lab is located in AMIC 4221<br>
+
 <br>
 <b>Advanced Materials Research Laboratory (AMRL)</b><br>
 <a href="https://www.clemson.edu/cecas/research/facilities.html">AMRL</a> is an innovative campus and technology park located in Anderson, South Carolina. It is a state-of-the-art facility that houses internationally recognized research programs in optoelectronics, chemistry, and materials science. It houses the nation’s most outstanding Electron Microscopy Facilities (<a href="https://www.clemson.edu/research/division-of-research/core-facilities/emf/capabilities/index.html">EMF</a>) and the Center for Optical Materials Science and Engineering Technologies (<a href="https://www.clemson.edu/centers-institutes/comset/index.html">COMSET</a>), offering professional services to private industry and academic clients. Ready access to transmission electron microscopy (TEM), scanning electron microscope (SEM), X-ray photoelectron spectroscopy (XPS), Raman spectroscopy, and many others.<br>
@@ -65,6 +66,8 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 <br>
 <b>Material Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/@FrankHoffmann1000/playlists">The Fascination of Crystals and Symmetry</a>, online course by Dr. Frank Hoffmann<br>
+Engineering Innovations and Human Evolution (<a href="https://eihe.science/episodes">EIHE</a>). MSE episodes made by Dr. DP Aidhy.<br>
+TMS Plenary Talk 2025, <a href="https://www.youtube.com/watch?v=9fzEH8nS-uY">Making Materials Science Go Viral</a>, by Dr. Taylor Sparks. Also check the <a href="https://www.youtube.com/@TaylorSparks/playlists">podcasts</a>.<br>
 <br>
 <b>Data Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction to Neural Networks</a><br>
