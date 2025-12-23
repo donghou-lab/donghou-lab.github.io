@@ -43,8 +43,8 @@ Not this soon..<br>
 &bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
 &bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
 &bull;&nbsp;Clemson University <a href="https://www.clemson.edu/administration/bot/about/values-statement.html">Core Values</a>: Integrity; Respect; Diversity; Patriotism; Excellence; Self-Reliance.<br>
-&bull;&nbsp;Website intro of our <a href="https://blogs.clemson.edu/mseclemson/welcome-to-mse/">MSE Program</a>. Also check our <a href="https://www.youtube.com/watch?v=9CvqwXfmNPZI">video</a>.<br>
-&bull;&nbsp;Clemson MSE <a href="https://www.youtube.com/watch?v=un7UvV7_hn0">Facilities Tour</a> video 2024. Clemson CECAS <a href="https://www.youtube.com/@ClemsonCECAS/videos">Youtube Videos</a>.<br>
+&bull;&nbsp;Website intro of Clemson <a href="https://blogs.clemson.edu/mseclemson/welcome-to-mse/">MSE Program</a>. Also check our <a href="https://www.youtube.com/watch?v=9CvqwXfmNPZI">video</a>.<br>
+&bull;&nbsp;Clemson MSE <a href="https://www.youtube.com/watch?v=un7UvV7_hn0">Facilities Tour 2024</a> video. Clemson CECAS <a href="https://www.youtube.com/@ClemsonCECAS/videos">Youtube Videos</a>.<br>
 
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->

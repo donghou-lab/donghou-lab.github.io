@@ -23,8 +23,8 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> for Spring 2026 and beyond.<br>
-  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship!<br>
+  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> for Fall 2026 and beyond.<br>
+  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship! Check the <a href="https://www.linkedin.com/posts/clemson-university-college-of-engineering-and-science_how-would-you-like-a-car-phone-or-laptop-activity-7401632623984398336-pGN1/">press release</a>.<br>
   <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
 </div>
@@ -45,8 +45,9 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a>(<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
-    <tr><td>2025.11</td><td>Dr. Hou gave an invited seminar at UConn. Much appreciation to: MSE Department Head Dr. Dongare, the faculty members, and students.</td></tr>
+    <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a> (<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
+    <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
+    <tr><td>2025.11</td><td>Dr. Hou gives an invited seminar at University of Connecticut. Much appreciation to: UConn MSE Head Dr. Dongare, faculty members, and the students!</td></tr>
     <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
     <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
     <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
