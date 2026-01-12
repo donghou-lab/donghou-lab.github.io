@@ -55,7 +55,7 @@ M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
 <b>Where are we from:</b>
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="160"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="160"  style="border:0;float: left;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
