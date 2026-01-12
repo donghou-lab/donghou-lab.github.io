@@ -62,16 +62,11 @@ The Department of Chemistry hosts a <a href="https://scienceweb.clemson.edu/aif/
 &bull;&nbsp;Spectroscopy<br>
 &bull;&nbsp;Imaging and tomography<br>
 &bull;&nbsp;Diffraction and scattering<br>
-<br>
-<b>Material Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/@FrankHoffmann1000/playlists">The Fascination of Crystals and Symmetry</a>, online course by Dr. Frank Hoffmann<br>
-Engineering Innovations and Human Evolution (<a href="https://eihe.science/episodes">EIHE</a>). MSE episodes made by Dr. DP Aidhy.<br>
-TMS Plenary Talk 2025, <a href="https://www.youtube.com/watch?v=9fzEH8nS-uY">Making Materials Science Go Viral</a>, by Dr. Taylor Sparks. Also check the <a href="https://www.youtube.com/@TaylorSparks/playlists">podcasts</a>.<br>
 <br>
 <b>Data Science</b><br>
 &bull;&nbsp;<a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Introduction to Neural Networks</a><br>
 &bull;&nbsp;<a href="https://www.youtube.com/@fundamentalsatssrlandlcls8668/videos">Making Scientific Figures</a>, videos by Dr. Christopher Gutierrez<br>
-&bull;&nbsp;Greek Alphabet, <a href="https://www.youtube.com/watch?v=PStgY5AcEIw">Math/Science Version</a>, <a href="https://www.youtube.com/watch?v=Hib0gWqNBmA">Greek Version</a><br>
 &bull;&nbsp;<a href="https://github.com/donghou-lab/">Our codes</a> on specialized research topics<br>
 <br>
 <small> We have made several resources freely available on our website(s). Please feel free to make use of these materials. However, please retain the original attributions, especially when images are re-used. Also, if you use the contents of this website in any significant way for teaching or mentoring, do drop me a note. Please see: <a href="http://en.wikipedia.org/wiki/Fair_use">Fair use</a></small><br>

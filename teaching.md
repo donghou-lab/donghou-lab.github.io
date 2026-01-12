@@ -11,7 +11,11 @@ layout: splash
 &bull;&nbsp;Clemson Research Experience for Teachers <a href="https://www.clemson.edu/cecas/research/ret-adv-manuf-research.html">(RET)</a>, Summer 2024/2025<br>
 &bull;&nbsp;Virginia Tech Research Experiences for Undergraduates (REU), KAUST Gifted Student Program, Summer 2021<br>
 <br>
-Beautiful physics demonstrations from <a href="https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html">Show the Physics</a>
+<b>Material Science Collections</b><br>
+&bull;&nbsp;Engineering Innovations and Human Evolution (<a href="https://eihe.science/episodes">EIHE</a>). MSE episodes made by Dr. DP Aidhy.<br>
+&bull;&nbsp;Beautiful physics demonstrations from <a href="https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html">Show the Physics</a>
+&bull;&nbsp;TMS Plenary Talk 2025, <a href="https://www.youtube.com/watch?v=9fzEH8nS-uY">Making Materials Science Go Viral</a>, by Dr. Taylor Sparks. Also check the <a href="https://www.youtube.com/@TaylorSparks/playlists">podcasts</a>.<br>
+&bull;&nbsp;Greek Alphabet, <a href="https://www.youtube.com/watch?v=PStgY5AcEIw">Math/Science Version</a>, <a href="https://www.youtube.com/watch?v=Hib0gWqNBmA">Greek Version</a><br>
 <hr>
 
 <!-- I’m proud of my mentees and all they have accomplished -->

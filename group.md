@@ -7,30 +7,36 @@ layout: splash
 <img src="/assets/group/placeholder_members.jpg" alt="Member" height="160 px" /><br>
 <br>
 <b>Assistant Research Professor</b>: Dr. Dillip Kumar Panda<br>
-Postdoc: University of Michigan, Florida State University; Ph.D., University of Wollongong (2011)<br>
+Postdoc: University of Michigan, Florida State University; Ph.D., University of Wollongong, 2011<br>
 <small> Dr. Panda’s research centers on developing high-temperature, all-solid-state lithium batteries for electric vehicles and advancing material discovery for anodes, solid-state electrolytes, and cathodes. As a materials scientist and electrochemist, his work also spans polymer-derived ceramics, conducting polymers, nanomaterials, metal–organic frameworks (MOFs), and sensors, with expertise in various types of solar cells and supercapacitors. He has authored more than 35 peer-reviewed journal publications and contributed four book chapters. In recognition of his research excellence, Dr. Panda received the Clemson University Distinguished Postdoctoral Award in 2022. In his leisure time, he enjoys listening to music and writing poetry and prose in Odia. <a href="https://www.linkedin.com/in/dr-dillip-kumar-panda-a4217b56/">LinkedIn</a><br></small>
 <br>
 <b>Graduate Student</b>: Bryson Hedrick<br>
-B.S., Appalachian State University (2024)<br>
+B.S., Appalachian State University, 2024<br>
 <small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. <a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
+<b>Graduate Student</b>: Tariq El-Hawary<br>
+M.S., Arab Academy for Science, Technology & Maritime Transport (AASTMT), 2022; B.S., AASTMT, 2017<br>
+<small>Tariq has a background in mechanical engineering with a focus on energy and power systems. He has been involved in teaching and academic instruction since 2017 while completing his bachelor’s and master’s degrees. His academic training is centered on fluid mechanics, mechanical design, and thermal sciences. His current research interests lie in materials science, particularly material integrity and the mechanical behavior of materials relevant to energy and industrial applications. Outside of academics, he enjoys going for walks and listening to podcasts.<br></small>
+<b>Graduate Student</b>: Nishanth Manda<br>
+M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br>
+<small>Nishanth has a background in mechanical engineering and has contributed to research on battery thermal management using nanofluid-based cooling for Li-ion cells, as well as on high-entropy alloy thermal barrier coatings for high-temperature applications. His current work centers on advanced materials and thermal systems for energy technologies, with an emphasis on nanofibers for next-generation batteries and thermal management. Outside his research, he enjoys outdoor activities and traveling.<br></small>
 
-<!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
-Education: B.S., xxx University (2020)<br>
-say something about yourself.<br>
-<br>
-<b>Undergraduates</b>:<br>
-<img src="/assets/group/placeholder_wide.jpg" alt="placeholder_wide"><br>
-JaneDoe3, Fall 2025, (xxx@clemson.edu)<br>
-say something about yourself.<br>
-<br> -->
-<b>Alumni</b>:<br>
-Not this soon..<br>
 <hr>
-<!-- <b>Group Member Awards and Accomplishments</b><br>
-<br>
-<b>Group Member Internships and Employments</b><br>
-<br>
- -->
+  <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
+  Education: B.S., xxx University (2020)<br>
+  say something about yourself.<br>
+  <br>
+  <b>Undergraduates</b>:<br>
+  <img src="/assets/group/placeholder_wide.jpg" alt="placeholder_wide"><br>
+  JaneDoe3, Fall 2025, (xxx@clemson.edu)<br>
+  say something about yourself.<br>
+  <br> -->
+
+  <!-- <b>Alumni</b>:<br>
+  Not this soon..<br> -->
+  <!-- <b>Group Member Awards and Accomplishments</b><br>
+  <br>
+  <b>Group Member Internships and Employments</b><br>
+  <br> -->
 <b>Possible Openings</b><br>
 &bull;&nbsp;<strong>Postdocs</strong> with <u>proven experience</u> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
 &bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <u>strong interests</u> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
@@ -40,15 +46,16 @@ Not this soon..<br>
 
 <b>About Clemson University</b><br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
-&bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report.<br>
-&bull;&nbsp;Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
+&bull;&nbsp;Clemson University’s College of Engineering, Computing, and Applied Sciences (CECAS) is committed to producing outstanding graduates. Our MSE program <u>ranks #1 for the state of South Carolina</u> by College Factual and EduRank, and 29th among national public universities by US News and World Report. Clemson is listed as Top 10 <u>Best Small College Towns</u>, per <a href="https://10best.usatoday.com/awards/best-small-college-town/">USA TODAY reviews</a><br>
 &bull;&nbsp;Clemson University <a href="https://www.clemson.edu/administration/bot/about/values-statement.html">Core Values</a>: Integrity; Respect; Diversity; Patriotism; Excellence; Self-Reliance.<br>
-&bull;&nbsp;Website intro of Clemson <a href="https://blogs.clemson.edu/mseclemson/welcome-to-mse/">MSE Program</a>. Also check our <a href="https://www.youtube.com/watch?v=9CvqwXfmNPZI">video</a>.<br>
-&bull;&nbsp;Clemson MSE <a href="https://www.youtube.com/watch?v=un7UvV7_hn0">Facilities Tour 2024</a> video. Clemson CECAS <a href="https://www.youtube.com/@ClemsonCECAS/videos">Youtube Videos</a>.<br>
-
+&bull;&nbsp;Website intro of Clemson <a href="https://blogs.clemson.edu/mseclemson/welcome-to-mse/">MSE Program</a>. Also check our <a href="https://www.youtube.com/watch?v=9CvqwXfmNPZI">intro video</a>.<br>
+&bull;&nbsp;Clemson <a href="https://www.youtube.com/watch?v=un7UvV7_hn0">MSE Facilities Tour</a> video 2024. Clemson <a href="https://www.youtube.com/@ClemsonCECAS/videos">CECAS video playlist</a>.<br>
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
+
+<b>Where are we from:</b>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
@@ -70,6 +77,3 @@ A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthf
 &bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
 &bull;&nbsp;Wolfpack, Think and Do<br>
-
-<!-- <b>Where are we from:</b>
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> -->
