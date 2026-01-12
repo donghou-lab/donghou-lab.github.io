@@ -13,13 +13,14 @@ Postdoc: University of Michigan, Florida State University; Ph.D., University of 
 <b>Graduate Student</b>: Bryson Hedrick<br>
 B.S., Appalachian State University, 2024<br>
 <small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. <a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
+<br>
 <b>Graduate Student</b>: Tariq El-Hawary<br>
 M.S., Arab Academy for Science, Technology & Maritime Transport (AASTMT), 2022; B.S., AASTMT, 2017<br>
 <small>Tariq has a background in mechanical engineering with a focus on energy and power systems. He has been involved in teaching and academic instruction since 2017 while completing his bachelor’s and master’s degrees. His academic training is centered on fluid mechanics, mechanical design, and thermal sciences. His current research interests lie in materials science, particularly material integrity and the mechanical behavior of materials relevant to energy and industrial applications. Outside of academics, he enjoys going for walks and listening to podcasts.<br></small>
+<br>
 <b>Graduate Student</b>: Nishanth Manda<br>
 M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br>
 <small>Nishanth has a background in mechanical engineering and has contributed to research on battery thermal management using nanofluid-based cooling for Li-ion cells, as well as on high-entropy alloy thermal barrier coatings for high-temperature applications. His current work centers on advanced materials and thermal systems for energy technologies, with an emphasis on nanofibers for next-generation batteries and thermal management. Outside his research, he enjoys outdoor activities and traveling.<br></small>
-
 <hr>
   <!-- <b>M.S.: JohnDoe2 </b>, Fall 2025, (xxx@clemson.edu)<br>
   Education: B.S., xxx University (2020)<br>
@@ -53,9 +54,8 @@ M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
-
 <b>Where are we from:</b>
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1" width="640" height="160"></iframe>
 
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
