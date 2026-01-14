@@ -3,10 +3,23 @@ title: "Biography"
 layout: "single"
 author_profile: true
 ---
-<p style="width: 640px height=160px">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7269043.22949187!2d-82.34397596421735!3d34.57944336911884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e1135ab658d%3A0x8d3219cb792a8e56!2sClemson%20University!5e0!3m2!1sen!2sus!4v1715472447720!5m2!1sen!2sus" width="320px" height="160px" style="border:0;float: left;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	<small><address>Visit us at:<br>115 South Palmetto Blvd.<br>Clemson, SC 29634-0971<br>Lab: AMIC 4221 and Olin Hall 104<br></address></small>
-</p>
+<div style="display:flex; width:100%; min-height:160px;">
+  <div style="flex:60%;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7269043.22949187!2d-82.34397596421735!3d34.57944336911884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88585e1135ab658d%3A0x8d3219cb792a8e56!2sClemson%20University!5e0!3m2!1sen!2sus!4v1715472447720!5m2!1sen!2sus"
+      style="width:100%; height:100%; border:0; display:block;"
+      loading="lazy"
+      allowfullscreen
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+  <address style="flex:40%; padding:12px; font-size:14px; line-height:1.5;">
+    <strong>Visit us at:</strong><br>
+    115 South Palmetto Blvd.<br>
+    Clemson, SC 29634-0971<br>
+    Labs: AMIC 4221 and Olin Hall 104
+  </address>
+</div>
 <hr>
 <b>Professional preparation:</b><br>
 &bull;&nbsp;I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.<br>
@@ -32,8 +45,6 @@ author_profile: true
 &bull;&nbsp;I sometimes email after-hours, to note the <em>ad hoc</em> thoughts or ideas. I don’t anticipate the same from others.<br>
 &bull;&nbsp;I worship low-context culture in my lab.<br>
 <!-- &bull;&nbsp;text<br> -->
-<p>
-	Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" width="640" height="160" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
-	Top 3 cities I visited: <b>Madrid</b> ESP, <b>Melbourne</b> AUS, <b>Tokyo</b> JPN.
-</p>
+Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" width="640" height="160" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+Top 3 cities I visited: <b>Madrid</b> ESP, <b>Melbourne</b> AUS, <b>Tokyo</b> JPN.

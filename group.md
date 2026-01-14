@@ -54,8 +54,8 @@ M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
-<b>Where are we from:</b><br>
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1&z=1" width="640" height="240"  style="border:0;width:100%; height:240px; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<b>Where we from:</b><br>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1&z=1" width="640" height="240"  style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
 &bull;&nbsp;Undergraduates: <a href="https://www.clemson.edu/cecas/students/engagement/opportunities.html">CECAS Opportunity Grants</a>, <a href="https://www.clemson.edu/cuhonors/opportunities/breakthrough-scholars/index.html">Breakthrough Scholars Program</a>, <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/index.html">Creative Inquiry</a>, and many others.<br>
@@ -67,12 +67,8 @@ We are committed to workforce training and professional development in STEM fiel
 <img src="/assets/group/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
 A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
 <br>
-<b>Friends of our lab</b> (at least in my personal perspective)
-<p float="left">
-  <img src="/assets/group/Member_TheTiger.jpg" width="160 px" />
-  <img src="/assets/group/Member_HokieBird.jpg" width="160 px" /> 
-  <img src="/assets/group/Member_Wolfpack.jpg" width="160 px" />
-</p>
+<b>Friends of our lab:</b> (at least in my personal perspective)
+<img src="/assets/group/Member_mascot.jpg" alt="Mascot" height="160 px" /><br>
 &bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
 &bull;&nbsp;Wolfpack, Think and Do<br>

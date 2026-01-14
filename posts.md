@@ -3,7 +3,7 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-<strong>News Archive, 2025 Spring</strong><br>
+<strong>News Archive, MSE 3020 Teaching</strong><br>
 Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
 <table><tbody>
   <tr><td>"Dr. Hou does a good job of communicating what is expected to use. He is easy to understand in lecture and is very willing to help with any lab report questions. His feedback on the lab reports has, also, been very help allowing us to know how to make the next one better."</td></tr>
@@ -12,9 +12,11 @@ Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
   <tr><td>"The labs were well-made, and had good instruction on how to report the findings in the post-lab report."</td></tr>
   <tr><td>"I think the lectures were great but I think he makes the questions for the finals a bit much. "</td></tr>
   <tr><td>"The course went smoothly and I feel like we learned a ton of information that will be useful in the industry."</td></tr>
+  <tr><td>"Dr. Hou structured this course in a way that was challenging yet satisfying. And the workload was not insurmountable as long as I stayed engaged with it week to week.</td></tr>
+  <tr><td>"The instructor gave some insightful lectures which provided excellent context for the work that we were doing in lab.</td></tr>
 </tbody></table>
 
-<strong>News Archive, 2024 Fall</strong><br>
+<strong>News Archive, MSE3010 Teaching</strong><br>
 Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci!<br>
 <table><tbody>
   <tr><td>"In lectures with Dr. Hou, he was clear in his explanation of concepts."</td></tr>
