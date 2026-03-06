@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2026-01-15T20:05:00-05:00
+last_modified_at: 2026-03-15T20:05:00-05:00
 
 toc: false
 
@@ -23,7 +23,7 @@ feature_row:
 <!-- Latest news, sync with brief-news section-->
 <!-- Update the dates on header section-->
 <div class="notice--success">
-  💡 <a href="/group/index.html">Openings</a>: I'm looking for self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> for Fall 2026 and beyond.<br>
+  💡 <a href="/group/index.html">Openings</a>: Self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> are encouraged to send inquiry to Dr. Hou.<br>
   🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship! Check the <a href="https://www.linkedin.com/posts/clemson-university-college-of-engineering-and-science_how-would-you-like-a-car-phone-or-laptop-activity-7401632623984398336-pGN1/">press release</a>.<br>
   <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
@@ -45,6 +45,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
+    <tr><td>2026.03</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting, to be held in Bellevue, WA this April.</td></tr>
     <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a> (<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
     <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
     <tr><td>2025.11</td><td>Dr. Hou gives an invited seminar at University of Connecticut. Much appreciation to: UConn MSE Head Dr. Dongare, faculty members, and the students!</td></tr>
@@ -60,14 +61,6 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
     <tr><td>2025.02</td><td>Dr. Hou chairs a symposium session at the Electronic Materials and Applications (EMA2025) conference, and gives an invited talk on "Defects and Transport in Ceramics".</td></tr>
     <tr><td>2025.02</td><td>We have a <a href="/assets/docs/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/docs/AMIC_Flyer_202501.pdf">AMIC</a>. (Update: filled)</td></tr>
     <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
-    <tr><td>2024.12</td><td>Dr. Hou accepts the invitation from <em>Journal of Materials Chemistry A</em> <b>Emerging Investigator</b> Series</td></tr>
-    <tr><td>2024.11</td><td>A collaborative work is accepted for publication in <b><em>ACS Sustainable Chemistry & Engineering</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
-    <tr><td>2024.10</td><td>Dr. Hou chairs a symposium session at the Materials Science & Technology (MS&T24) conference, and gives an invited talk on "Energy Materials for Sustainable Development".</td></tr>
-    <tr><td>2024.09</td><td>Dr. Hou starts serving on ACerS Basic Science Division's Committee.</td></tr>    
-    <tr><td>2024.08</td><td>A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>. Led by Dr. Linqin Mu at ASU, Dr. Raphaële Clément at UCSB, and Dr. Feng Lin at Virginia Tech.</td></tr>
-    <tr><td>2024.07</td><td>Our proposal is awarded by Brookhaven National Laboratory for multiple visits to this DOE facility. We will perform synchrotron experiments on batteries.</td></tr>
-    <tr><td>2024.06</td><td>Dr. Hou serves as an NSF panelist and lead reviewer for the EPSCoR funding competition.</td></tr>
-    <tr><td>2024.06</td><td>A collaborative work is accepted for publication in <b><em>Advanced Energy Materials</em></b>. Led by Dawei Xia and Dr. Feng Lin at Virginia Tech.</td></tr>
     <tr><td>earlier</td><td><a href="/posts/index.html">More Archived News</a></td></tr>
   </tbody>
 </table>

@@ -45,6 +45,7 @@ author_profile: true
 &bull;&nbsp;I sometimes email after-hours, to note the <em>ad hoc</em> thoughts or ideas. I don’t anticipate the same from others.<br>
 &bull;&nbsp;I worship low-context culture in my lab.<br>
 <!-- &bull;&nbsp;text<br> -->
+<hr>
 Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" width="640" height="160" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 Top 3 cities I visited: <b>Madrid</b> ESP, <b>Melbourne</b> AUS, <b>Tokyo</b> JPN.

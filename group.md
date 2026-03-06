@@ -12,7 +12,7 @@ Postdoc: University of Michigan, Florida State University; Ph.D., University of 
 <br>
 <b>Graduate Student</b>: Bryson Hedrick<br>
 B.S., Appalachian State University, 2024<br>
-<small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. <a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
+<small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. His hometown is about 10 minutes away from where District 12 was filmed for The Hunger Games in 2012.<a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
 <br>
 <b>Graduate Student</b>: Tariq El-Hawary<br>
 M.S., Arab Academy for Science, Technology & Maritime Transport (AASTMT), 2022; B.S., AASTMT, 2017<br>
@@ -68,7 +68,7 @@ We are committed to workforce training and professional development in STEM fiel
 A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
 <br>
 <b>Friends of our lab:</b> (at least in my personal perspective)
-<img src="/assets/group/Member_mascot.jpg" alt="Mascot" height="160 px" /><br>
+<img src="/assets/group/Member_mascot.jpg" alt="Mascot" height="160" /><br>
 &bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>
 &bull;&nbsp;Wolfpack, Think and Do<br>
