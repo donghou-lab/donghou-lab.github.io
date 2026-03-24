@@ -45,7 +45,8 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <tr><td>2026.03</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting, to be held in Bellevue, WA this April.</td></tr>
+    <tr><td>2026.04</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting, to be held in Bellevue, WA this April.</td></tr>
+    <tr><td>2026.03</td><td>Bryson well represented our lab well at the ACS Spring Conference at Atlanta, GA, and delivered an oral presentation on “Advances in Imaging Probes and Techniques.”</td></tr>
     <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a> (<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
     <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
     <tr><td>2025.11</td><td>Dr. Hou gives an invited seminar at University of Connecticut. Much appreciation to: UConn MSE Head Dr. Dongare, faculty members, and the students!</td></tr>
