@@ -24,7 +24,8 @@ feature_row:
 <!-- Update the dates on header section-->
 <div class="notice--success">
   💡 <a href="/group/index.html">Openings</a>: Self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> are encouraged to send inquiry to Dr. Hou.<br>
-  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship! Check the <a href="https://www.linkedin.com/posts/clemson-university-college-of-engineering-and-science_how-would-you-like-a-car-phone-or-laptop-activity-7401632623984398336-pGN1/">press release</a>.<br>
+  🌟 <a href="/index.html#recent-news">Grant</a>: Our lab has been selected for the CU-SRNL GSS Support!<br>
+  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship!<br>
   <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
 </div>
@@ -45,6 +46,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
+    <tr><td>2026.04</td><td>Our collaborative proposal was selected for funding by the CU-SRNL GSS Initiative. We will work with Savannah River National Laboratory (SRNL) on energy security.</td></tr>
     <tr><td>2026.04</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting in Bellevue, WA.</td></tr>
     <tr><td>2026.04</td><td>Dr. Hou serves as an proposal reviewer for the DOE Program.</td></tr>
     <tr><td>2026.03</td><td>Dr. Hou serves as an proposal reviewer for the U.S. Army Combat Capabilities Development Command (DEVCOM) Broad Agency Announcement (BAA).</td></tr>
@@ -55,7 +57,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
     <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
     <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
     <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
-    <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
+    <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! Check the <a href="https://www.linkedin.com/posts/clemson-university-college-of-engineering-and-science_how-would-you-like-a-car-phone-or-laptop-activity-7401632623984398336-pGN1/">press release</a>. This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
     <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>
     <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in London, UK and IPDPS 2025 in Milan, Italy. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
     <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>

@@ -13,6 +13,8 @@ We envision pioneering solutions to the grand challenges at the crossroads of ma
 
 <b>Funded Research Projects</b><br>
 <!-- <img src="/assets/misc/placeholder_wide.jpg" alt="placeholder_wide"><br> -->
+&bull;&nbsp;<b>CU-SRNL GSS Initiative</b>: This grant strengthens research collaboration between Clemson University and Savannah River National Laboratory (SRNL) in the area of energy security. We will design advanced ceramic composite materials for energy storage and hydrogen isotope processing, leveraging DOE user facilities and the X-ray AIMS Lab in our new AMIC building. The student will be trained as the next generation of workers to meet the SRNL’s needs.<br>
+<br>
 &bull;&nbsp;<b>NSF EPSCoR Research Fellowship</b>: Through this fellowship, we will develop advanced analytical methods to uncover the fundamental design principles of solid-state batteries. The project focuses on addressing interfacial challenges by optimizing the microstructural and chemical design of composite electrodes. In collaboration with the national synchrotron facility, we will also strengthen Clemson University’s research infrastructure in X-ray imaging. Furthermore, this fellowship will serve as a platform to train and inspire the next generation of materials scientists in energy research and advanced characterization techniques.<br>
 <!-- As one of the two awardee in SC and the only junior faculty awardee in SC -->
 <br>
