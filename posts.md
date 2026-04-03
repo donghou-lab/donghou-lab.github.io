@@ -3,7 +3,8 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
-<strong>News Archive, 2025</strong>
+<strong>News Archive, 2025</strong><br>
+<table><tbody>
   <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
   <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
   <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
@@ -15,7 +16,8 @@ layout: splash
   <tr><td>2025.02</td><td>Dr. Hou chairs a symposium session at the Electronic Materials and Applications (EMA2025) conference, and gives an invited talk on "Defects and Transport in Ceramics".</td></tr>
   <tr><td>2025.02</td><td>We have a <a href="/assets/docs/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/docs/AMIC_Flyer_202501.pdf">AMIC</a>. (Update: filled)</td></tr>
   <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
-
+</tbody></table>
+<br>
 <strong>Archive, MSE 3020 Teaching</strong><br>
 Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
 <table><tbody>
@@ -26,7 +28,6 @@ Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
   <tr><td>"I think the lectures were great but I think he makes the questions for the finals a bit much. "</td></tr>
   <tr><td>"The course went smoothly and I feel like we learned a ton of information that will be useful in the industry."</td></tr>
 </tbody></table>
-
 <strong>Archive, MSE3010 Teaching</strong><br>
 Some good words by the students in the MSE 3010 evaluation. I'm flattered. Merci!<br>
 <table><tbody>
