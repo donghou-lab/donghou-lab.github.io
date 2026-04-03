@@ -25,7 +25,6 @@ feature_row:
 <div class="notice--success">
   💡 <a href="/group/index.html">Openings</a>: Self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> are encouraged to send inquiry to Dr. Hou.<br>
   🌟 <a href="/index.html#recent-news">Grant</a>: Our lab has been selected for the CU-SRNL GSS Support!<br>
-  🌟 <a href="/index.html#recent-news">Grant</a>: Dr. Hou received the NSF EPSCoR Research Fellowship!<br>
   <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
 </div>
@@ -46,26 +45,16 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
-    <tr><td>2026.04</td><td>Our collaborative proposal was selected for funding by the CU-SRNL GSS Initiative. We will work with Savannah River National Laboratory (SRNL) on energy security.</td></tr>
+    <tr><td>2026.04</td><td>Tariq and Nishanth won the <a href="/assets/images/202604_Optica_Poster.jpg">first and second prize</a> respectively in one session at 19th Annual MRS/Optica Poster Competition.</td></tr>
     <tr><td>2026.04</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting in Bellevue, WA.</td></tr>
-    <tr><td>2026.04</td><td>Dr. Hou serves as an proposal reviewer for the DOE Program.</td></tr>
-    <tr><td>2026.03</td><td>Dr. Hou serves as an proposal reviewer for the U.S. Army Combat Capabilities Development Command (DEVCOM) Broad Agency Announcement (BAA).</td></tr>
+    <tr><td>2026.04</td><td>Our collaborative proposal was selected for funding by the CU-SRNL GSS Initiative. We will work with Savannah River National Laboratory (SRNL) on energy security.</td></tr>
+    <tr><td>2026.04</td><td>Dr. Hou serves as an proposal reviewer for the DOE program.</td></tr>
+    <tr><td>2026.03</td><td>Dr. Hou serves as an proposal reviewer for the U.S. Army Broad Agency Announcement (BAA).</td></tr>
     <tr><td>2026.03</td><td>Bryson well represented our lab at the ACS Spring Conference in Atlanta, GA, and delivered an oral presentation on “Advances in Imaging Probes and Techniques.”</td></tr>
-    <tr><td>2025.12</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a> (<a href="https://youtu.be/-SzNYyjIfDA">Video</a>).</td></tr>
-    <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
+    <tr><td>2026.01</td><td>Take a look at the newly installed <a href="/assets/images/202512_Xradia_nanoCT.jpg">nanoCT</a> in our state-of-the-art <a href="https://news.clemson.edu/excitement-builds-as-clemson-university-prepares-to-open-the-advanced-materials-innovation-complex/">AMIC building</a> (<a href="https://youtu.be/-SzNYyjIfDA">Also this video</a>).</td></tr>
     <tr><td>2025.11</td><td>Dr. Hou gives an invited seminar at University of Connecticut. Much appreciation to: UConn MSE Head Dr. Dongare, faculty members, and the students!</td></tr>
-    <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
-    <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
-    <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
     <tr><td>2025.09</td><td>After national competition, Dr. Hou received the NSF EPSCoR Research Fellowship! Check the <a href="https://www.linkedin.com/posts/clemson-university-college-of-engineering-and-science_how-would-you-like-a-car-phone-or-laptop-activity-7401632623984398336-pGN1/">press release</a>. This very competitive fellowship supports us to visit Brookhaven National Laboratory in the next two years to solve important scientific questions in solid-state battery design. <a href="https://www.nsf.gov/news/nsf-invests-62-million-epscor-research-fellows">More about this program</a></td></tr>
-    <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>
     <tr><td>2025.06</td><td>With partnership, Dr. Hou got the chance to attend IEEE INFOCOM in London, UK and IPDPS 2025 in Milan, Italy. Shared ideas with experts in parallel computation for better materials science. It was a memorable experience in Europe.</td></tr>
-    <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>
-    <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>
-    <tr><td>2025.03</td><td>Our single-PI proposal was selected for funding by the SC EPSCoR. This project will focus on implantable medical devices and healthcare.</td></tr>
-    <tr><td>2025.02</td><td>Dr. Hou chairs a symposium session at the Electronic Materials and Applications (EMA2025) conference, and gives an invited talk on "Defects and Transport in Ceramics".</td></tr>
-    <tr><td>2025.02</td><td>We have a <a href="/assets/docs/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/docs/AMIC_Flyer_202501.pdf">AMIC</a>. (Update: filled)</td></tr>
-    <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
     <tr><td>earlier</td><td><a href="/posts/index.html">More Archived News</a></td></tr>
   </tbody>
 </table>

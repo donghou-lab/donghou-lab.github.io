@@ -3,6 +3,19 @@ title: "Posts"
 layout: splash
 ---
 <!-- &bull;&nbsp;text<br> -->
+<strong>News Archive, 2025</strong>
+  <tr><td>2025.12</td><td>Dr. Hou serves as an proposal reviewer for the American Society for Engineering Education (ASEE) eFellows Program.</td></tr>
+  <tr><td>2025.10</td><td>Dr. Hou attends MS&T Conference in Columbus OH, and AIChE Annual Meeting in Boston MA, and gave an invited talk on "Nanomaterials for Energy Storage and Conversion".</td></tr>
+  <tr><td>2025.10</td><td>Dr. Hou serves as an NSF proposal reviewer for the EPSCoR funding competition.</td></tr>
+  <tr><td>2025.09</td><td>Dr. Hou organizes a workshop at the 2025 SSRL/LCLS Users’ Meeting for SLAC National Accelerator Laboratory in Menlo Park, CA.</td></tr>
+  <tr><td>2025.08</td><td>Dr. Hou was invited to serve on the NSLS-II Proposal Review Panel.</td></tr>
+  <tr><td>2025.05</td><td>Dr. Hou accepts the invitation from <em>RSC Applied Interfaces</em> <b>Emerging Investigator</b> collection</td></tr>
+  <tr><td>2025.03</td><td>Dr. Hou is hornered to serve as organizer and division representative for the first-ever ACerS Spring Meeting in Bellevue WA, 2026.</td></tr>
+  <tr><td>2025.03</td><td>Our single-PI proposal was selected for funding by the SC EPSCoR. This project will focus on implantable medical devices and healthcare.</td></tr>
+  <tr><td>2025.02</td><td>Dr. Hou chairs a symposium session at the Electronic Materials and Applications (EMA2025) conference, and gives an invited talk on "Defects and Transport in Ceramics".</td></tr>
+  <tr><td>2025.02</td><td>We have a <a href="/assets/docs/AMIC_Postdoc_202501.pdf">postdoc position</a> opening at <a href="/assets/docs/AMIC_Flyer_202501.pdf">AMIC</a>. (Update: filled)</td></tr>
+  <tr><td>2025.01</td><td>Our collaborative proposal to CU-SRNL ELI was selected for funding. It allows us to acquire a cutting-edge 3D X-ray microscopy to study advanced materials and systems. Led by Dr. Konstantin Kornev and Dr. Kyle Brinkman.</td></tr>
+
 <strong>Archive, MSE 3020 Teaching</strong><br>
 Some good words by the students in the MSE 3020 evaluation. Grazieeee!<br>
 <table><tbody>
