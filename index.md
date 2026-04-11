@@ -45,6 +45,8 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
+    <tr><td>2026.04</td><td>Our lab has been selected for the CEES Sponsored Summer Internship Program, a collaborative outreach initiative with South Carolina State University (SCSU).</td></tr>
+    <tr><td>2026.04</td><td>Our two Creative Inquiry (<a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/">CI</a>) projects are now online. Please see <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/ci-projects.html">ID</a> #2773 on X-ray imaging and #2764 on battery cathodes. We welcome Clemson undergraduate students to join our team.</td></tr>
     <tr><td>2026.04</td><td>Tariq and Nishanth won the <a href="/assets/images/202604_Optica_Poster.jpg">first and second prize</a> respectively in one session at 19th Annual MRS/Optica Poster Competition.</td></tr>
     <tr><td>2026.04</td><td>Bryson has been selected for the graduate travel support to attend the first-ever ACerS Spring Meeting in Bellevue, WA.</td></tr>
     <tr><td>2026.04</td><td>Our collaborative proposal was selected for funding by the CU-SRNL GSS Initiative. We will work with Savannah River National Laboratory (SRNL) on energy security.</td></tr>
