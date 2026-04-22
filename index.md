@@ -25,6 +25,7 @@ feature_row:
 <div class="notice--success">
   💡 <a href="/group/index.html">Openings</a>: Self-motivated <a href="/assets/docs/lab_openings_final.pdf">Ph.D. students</a> are encouraged to send inquiry to Dr. Hou.<br>
   🌟 <a href="/index.html#recent-news">Grant</a>: Our lab has been selected for the CU-SRNL GSS Support!<br>
+  📝 <a href="/index.html#recent-news">News</a>:Dr. Hou was appointed as a CUSHR Faculty Scholar by Clemson University’s Office of the Provost.<br>
   <!-- 📝 <a href="/index.html#recent-news">Paper</a>: A collaborative work is accepted for publication in the <b><em>Journal of the American Chemical Society (JACS)</em></b>.<br> -->
   🔊 Announcement: The website is still under construction.<br>
 </div>
@@ -45,6 +46,7 @@ At <b><em>DHLab</em></b>, our research aims to understand and control material p
 <table>
   <thead><tr><th>Time</th><th>Event&nbsp;<a href="/posts/index.html">(Full News)</a></th></tr></thead>
   <tbody>
+    <tr><td>2026.04</td><td>Dr. Hou has been appointed as a Clemson University School of Health Research (CUSHR) Faculty Scholar. CUSHR facilitates and supports collaborative research between Clemson faculty and health system partners. In this role, we aim to develop leadership in advancing Clemson’s health-related research agenda and to strengthen collaborations with clinical researchers and healthcare systems.</td></tr>
     <tr><td>2026.04</td><td>Our lab has been selected for the CEES Sponsored Summer Internship Program, a collaborative outreach initiative with South Carolina State University (SCSU).</td></tr>
     <tr><td>2026.04</td><td>Our two Creative Inquiry (<a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/">CI</a>) projects are now online. Please see <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/ci-projects.html">ID</a> #2773 on X-ray imaging and #2764 on battery cathodes. We welcome Clemson undergraduate students to join our team.</td></tr>
     <tr><td>2026.04</td><td>Tariq and Nishanth won the <a href="/assets/images/202604_Optica_Poster.jpg">first and second prize</a> respectively in one session at 19th Annual MRS/Optica Poster Competition.</td></tr>
