@@ -21,7 +21,7 @@ We envision pioneering solutions to the grand challenges at the crossroads of ma
 &bull;&nbsp;<b>SC EPSCoR Grants for Applications in Industry and Networking (GAIN)</b>: Through this grant, we aim to enhance the performance and longevity of critical components in implantable biomedical devices by integrating data-driven modeling with AI-enabled methodologies. This award is part of the NSF-funded "<u>ADAPT in SC</u>" initiative (AI-Enabled Devices for the Advancement of Personalized and Transformative Health Care in South Carolina). The overarching goal is to strengthen research capacity at the intersection of AI, life and social sciences, and bioengineering: advancing fundamental research, education, workforce development, and industry collaboration.<br>
 <br>
 &bull;&nbsp;<b>CU-SRNL ELI Collaboration Initiatives</b>: This grant enables the acquisition of an Xradia Versa system to strengthen research collaboration between Clemson University and the Savannah River National Laboratory (SRNL). In partnership with SRNL’s Advanced Manufacturing Collaborative (AMC), we will focus on 3D multi-scale inspection and compositional control of additively manufactured parts, as well as the design and regulation of interfaces between immiscible materials in composite systems. This effort is a key component of the AMIC Imaging Facility initiative, supporting Clemson University’s bold strategic vision for 2035.<br>
-<b>More to come..</b>
+<b>More to come...</b>
 
 <hr>
 <b>Past Supports</b><br>

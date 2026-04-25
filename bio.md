@@ -23,13 +23,13 @@ author_profile: true
 <hr>
 <b>Professional preparation:</b><br>
 &bull;&nbsp;I obtained my B.Eng. in Material Chemistry from Central South University, China in 2013.<br>
-&bull;&nbsp;I worked in <a href="https://www.chengnanobionics.org/">Dr. Wenlong Cheng</a>’s lab at Monash University, Australia from Dec. 2012 to May. 2013 as a visiting undergraduate student.<br>
+&bull;&nbsp;I worked in <a href="https://www.chengnanobionics.org/">Dr. Wenlong Cheng</a>’s lab at Monash University, Australia from Dec. 2012 to May 2013 as a visiting undergraduate student.<br>
 &bull;&nbsp;I obtained my Ph.D. in Materials Science and Engineering from North Carolina State University in 2017, under the supervision of <a href="https://www.mse.ncsu.edu/people/jljone21/">Dr. Jacob Jones</a>.<br>
 &bull;&nbsp;After graduation, I had a short stay in the Scandinavia region, working as a postdoctoral fellow at Norwegian University of Science and Technology (NTNU) under the supervision of <a href="https://www.ntnu.edu/employees/mari-ann.einarsrud">Dr. Mari-Ann Einarsrud</a>.<br>
 &bull;&nbsp;I did my postdoctoral training at Virginia Tech under the guidance of <a href="https://thelinlabatvt.weebly.com/pi.html">Dr. Feng Lin</a> during 2019-2022.<br>
 &bull;&nbsp;I worked as a Research Assistant Professor at University of Louisiana at Lafayette with <a href="https://www.linkedin.com/in/xiao-dong-zhou-b808a7159/">Dr. Xiao-Dong Zhou</a>.<br>
 &bull;&nbsp;In 2024, I went back to the Carolinas and joined Clemson University. <strong>I’m thankful for all the mentorship I received.</strong><br>
-&bull;&nbsp;I collaborate with several national laboratories, domestic and international institutions, and companies. The research has been supported by multiple funding agencies (e.g., NSF, DOE, and NASA).<br>
+&bull;&nbsp;I collaborate with several national laboratories, domestic and international institutions, and companies. My research has been supported by multiple funding agencies (e.g., NSF, DOE, and NASA).<br>
 <br>
 <b>Some quotes I collected:</b><br>
 &bull;&nbsp;Make mistakes, quickly.<br>
@@ -47,5 +47,5 @@ author_profile: true
 <!-- &bull;&nbsp;text<br> -->
 <hr>
 Made in <a href="https://maps.app.goo.gl/Bk4waZnsqYEdiDZw6">Shandong, China</a>. Where I grew up:<br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" width="640" height="160" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15981514.723731013!2d113.43829049425533!3d35.435630804616224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35c2d8ed474e7eb3%3A0x5565962081825b88!2sLiaocheng%2C%20Shandong%2C%20China!5e0!3m2!1sen!2sus!4v1715472523490!5m2!1sen!2sus" style="display:block; max-width:640px; width:100%; height:160px; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 Top 3 cities I visited: <b>Madrid</b> ESP, <b>Melbourne</b> AUS, <b>Tokyo</b> JPN.

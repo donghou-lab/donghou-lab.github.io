@@ -12,7 +12,7 @@ Postdoc: University of Michigan, Florida State University; Ph.D., University of 
 <br>
 <b>Graduate Student</b>: Bryson Hedrick<br>
 B.S., Appalachian State University, 2024<br>
-<small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. His hometown is about 10 minutes away from where District 12 was filmed for The Hunger Games in 2012.<a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
+<small>Bryson comes from a physics background, having worked with optical tweezers at Appalachian State University and in nanofabrication at UT-ORII. His current research focuses on machine learning, ceramics, and image processing. Outside of academics, he enjoys hiking, practicing primitive living skills, climbing, foraging, playing DnD, and coding. His hometown is about 10 minutes away from where District 12 was filmed for <em>The Hunger Games</em> in 2012. <a href="https://www.linkedin.com/in/bryson-scott-hedrick/">LinkedIn</a><br></small>
 <br>
 <b>Graduate Student</b>: Tariq El-Hawary<br>
 M.S., Arab Academy for Science, Technology & Maritime Transport (AASTMT), 2022; B.S., AASTMT, 2017<br>
@@ -42,8 +42,8 @@ M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br
 &bull;&nbsp;<strong>Postdocs</strong> with <u>proven experience</u> and expertise in: energy materials (batteries, catalysts, fuel cells), in situ characterization (diffraction, scattering, microscopy), and artificial intelligence (machine learning, deep learning, computer vision).<br>
 &bull;&nbsp;<strong>Ph.D. and M.S.</strong> students with a background and <u>strong interests</u> in: energy storage, ceramic engineering, and advanced characterization. More details about our <a href="https://www.clemson.edu/cecas/departments/mse/academics/graduate/index.html">MSE Graduate Program</a>.<br>
 &bull;&nbsp;<strong>Undergraduate</strong> students in MSE or related majors with an interest in the above research topics are <u>encouraged</u> to apply.<br>
-&bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcomed to apply.<br>
-<small> Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu). With the subject specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2025fall.<br> Please keep your email <strong><u>concise</u></strong>, state briefly why you are interested in this lab, what’s your preliminary plan, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
+&bull;&nbsp;<strong>Visiting scholars and interns</strong> with an interest in the above research topics are welcome to apply.<br>
+<small>Send inquiry emails to Dr. Hou (hou4+inquiry@clemson.edu), with a subject line specifying your name, the position, and the expected start time, e.g. Application_Postdoc_JohnDoe_2025fall.<br> Please keep your email <strong><u>concise</u></strong>, state briefly why you are interested in this lab and what your preliminary plan is, and attach a CV. No need for other documents or certificates (your email is your cover letter). If you are applying to a specific advertisement, note this in your email.<br></small>
 
 <b>About Clemson University</b><br>
 &bull;&nbsp;Clemson University is a leading public research institution located in Clemson, South Carolina, classified among “R1: Doctoral Universities – Very high research activity”. <a href="https://donghou-lab.github.io/assets/images/clemson_gallery.pdf">Gallery of our campus</a><br>
@@ -54,8 +54,8 @@ M.S., University of Michigan-Dearborn, 2024; B. Eng., SRM University AP, 2022<br
 <!-- &bull;&nbsp;Clemson University and our lab do not discriminate against any person or group based on age, color, disability, gender, pregnancy, national origin, race, religion, sexual orientation, veteran status or genetic information. <strong>Women, racial and ethnic minorities, individuals with disabilities, and veterans are encouraged</strong> to join us.<br> -->
 <!-- To support diversity, inclusion, and equity, the <em>Division of Research</em> established a committee of peers and enacted an <a href="https://www.clemson.edu/research/division-of-research/about-division/inclusiveness.html">Inclusive Excellence Strategic Plan</a>.  -->
 <hr>
-<b>Where we from:</b><br>
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1&z=1" width="640" height="240"  style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<b>Where we are from:</b><br>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1g5ABBhFYtkJnzigjp_lHLP0yhjZI39c&ehbc=2E312F&noprof=1&z=1" style="display:block; max-width:640px; width:100%; height:240px; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <b>Fellowship and Scholarship Opportunities</b><br>
 We are committed to workforce training and professional development in STEM fields, please contact us if you are interested in working with us through these opportunities.<br>
 &bull;&nbsp;Undergraduates: <a href="https://www.clemson.edu/cecas/students/engagement/opportunities.html">CECAS Opportunity Grants</a>, <a href="https://www.clemson.edu/cuhonors/opportunities/breakthrough-scholars/index.html">Breakthrough Scholars Program</a>, <a href="https://www.clemson.edu/centers-institutes/watt/creative-inquiry/index.html">Creative Inquiry</a>, and many others.<br>
@@ -64,10 +64,10 @@ We are committed to workforce training and professional development in STEM fiel
 <br>
 
 <b>Teamwork</b> leads to proper perfection.<br> 
-<img src="/assets/group/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" /> <br>
+<img src="/assets/group/RedBull_PitStop.gif" alt="Red Bull Pit Stop, gif" style="display:block; max-width:480px; width:100%; height:auto;"><br>
 A pit stop, 4 tires swapping, by 22 human beings, in less than 2 seconds. Truthfully, it’s an art.<br> Source: Red Bull Racing, <a href="https://www.youtube.com/watch?v=wsCriICZ-nA">2019 Brazilian GP</a>.<br>
 <br>
-<b>Friends of our lab:</b> (at least in my personal perspective)
+<b>Friends of our lab:</b> (at least in my personal perspective)<br>
 <img src="/assets/group/Member_mascot.jpg" alt="Mascot" height="160" /><br>
 &bull;&nbsp;The Tiger, Dum Spiro Spero (While I breathe, I hope)<br>
 &bull;&nbsp;Hokie Bird, Ut Prosim (That I May Serve)<br>

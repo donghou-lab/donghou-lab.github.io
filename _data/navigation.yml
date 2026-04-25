@@ -19,8 +19,8 @@ homepage:
   - title: HOME
     children:
       - title: "About Me"
-        url: /index.html#about-me
+        url: /#about-me
       - title: "Research Lab"
-        url: /index.html#research-lab
+        url: /#research-lab
       - title: "Recent News"
-        url: /index.html#recent-news
+        url: /#recent-news
