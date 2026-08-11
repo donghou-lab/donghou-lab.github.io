@@ -44,11 +44,27 @@
     }
     .alumni-section {
       margin-top: 2rem;
+      max-width: 640px;
     }
     .alumni-grid {
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 1.5rem;
+    }
+    .alumni-grid .member-row {
+      display: block;
+      padding: 0;
+      border-top: 0;
+      text-align: center;
+    }
+    .alumni-grid .member-photo {
+      margin: 0 auto 0.75rem;
+    }
+    .alumni-grid .member-copy {
+      max-width: none;
+    }
+    .alumni-grid .member-row:last-child {
+      border-bottom: 0;
     }
     .alumni-group {
       margin: 0;
@@ -131,36 +147,8 @@
           <span class="note-text">Nishanth has a mechanical engineering background and has contributed to research on battery thermal management using nanofluid cooling for Li-ion cells, as well as high-entropy alloy thermal barrier coatings for high-temperature applications. His current work centers on advanced materials and thermal systems for energy technologies, with emphasis on nanofibers for next-generation batteries and thermal management. Outside research, he enjoys outdoor activities and traveling in his spare time.</span>
         </p>
       </section>
-      <section class="member-row" aria-label="Lab member profile">
-        <div class="member-photo">
-          <img src="assets/group/lab-member_05_tuhina-sambhus.jpg" alt="Portrait of Tuhina Sambhus">
-        </div>
-        <p class="member-copy">
-          <strong>Summer Intern:</strong> Tuhina Sambhus<br>
-          <span class="note-text">Tuhina is a Nuclear Engineering undergraduate student from New Zealand at South Carolina State University. She has research experience in HPGe detector systems, gamma spectroscopy, and a machine learning weed classification project focused on image analysis and data processing. After graduation, she hopes to pursue a Ph.D. at the intersection of healthcare and engineering. Outside academics, she plays Division 1 tennis, performs music, and enjoys running.</span>
-        </p>
-      </section>
-      <section class="member-row" aria-label="Lab member profile">
-        <div class="member-photo">
-          <img src="assets/group/lab-member_06_caroline_pringle.jpg" alt="Portrait of Caroline Pringle">
-        </div>
-        <p class="member-copy">
-          <strong>Summer Intern:</strong> Caroline Pringle<br>
-          <span class="note-text">Caroline is an incoming first-year Clemson Honors student interested in pursuing engineering with a focus on environmental and nuclear engineering. She attended the South Carolina Governor's School for Science and Mathematics where most of classes focused on applied math and physics. Outside of academics, Caroline likes to play guitar, exercise, and spend time outside.</span>
-        </p>
-      </section>      
-      <section class="member-row" aria-label="Lab member profile">
-        <div class="member-photo">
-          <img src="assets/group/lab-member_07_porter_mullens.jpg" alt="Portrait of Porter Mullens">
-        </div>
-        <p class="member-copy">
-          <strong>Summer Intern:</strong> Porter Mullens<br>
-          <span class="note-text">Porter is a Mechanical Engineering undergraduate Honors student at Clemson University. She has hands-on experience leading engineering design and development groups through the entire project lifecycle, managing everything from initial research and development to final execution. Her background includes directing community-focused engineering projects, ranging from stormwater drainage filters to functional utility carts. After graduation, she aims to design sustainable engineering solutions with a particular focus on renewable energy systems. Outside academics, she swims competitively, runs, and enjoys sewing.</span>
-        </p>
-      </section> 
     </div>
 
-    <hr>
     <p class="section-title"><strong>Where We Are From</strong><br></p>
     <p>
       <iframe
@@ -170,6 +158,36 @@
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"></iframe>
     </p>
+
+    <section class="alumni-section" aria-label="Alumni">
+      <p class="section-title"><strong>Alumni</strong><br></p>
+      <div class="alumni-grid">
+        <section class="member-row" aria-label="Alumni profile">
+          <div class="member-photo">
+            <img src="assets/group/lab-member_05_tuhina-sambhus.jpg" alt="Portrait of Tuhina Sambhus">
+          </div>
+          <p class="member-copy">
+            <strong>Intern:</strong> Tuhina Sambhus (2026)
+          </p>
+        </section>
+        <section class="member-row" aria-label="Alumni profile">
+          <div class="member-photo">
+            <img src="assets/group/lab-member_06_caroline_pringle.jpg" alt="Portrait of Caroline Pringle">
+          </div>
+          <p class="member-copy">
+            <strong>Intern:</strong> Caroline Pringle (2026)
+          </p>
+        </section>
+        <section class="member-row" aria-label="Alumni profile">
+          <div class="member-photo">
+            <img src="assets/group/lab-member_07_porter_mullens.jpg" alt="Portrait of Porter Mullens">
+          </div>
+          <p class="member-copy">
+            <strong>Intern:</strong> Porter Mullens (2026)
+          </p>
+        </section>
+      </div>
+    </section>
 
     <hr>
     <p class="section-title"><strong>Possible Openings</strong><br></p>
@@ -190,29 +208,7 @@
       &bull;&nbsp;Postdocs: <a href="https://new.nsf.gov/funding/postdocs">NSF Postdoctoral Fellowships</a>, American Society for Engineering Education (<a href="https://efellows.asee.org">ASEE</a>) eFellows, <a href="https://www.clemson.edu/research/division-of-research/resources/r-init-sub-pages/research-fellows.html">Clemson Research Fellows</a>, and many others.
     </p>
 
-    <!--
-    <section class="alumni-section" aria-label="Alumni">
-      <p class="section-title"><strong>Alumni</strong><br></p>
-      <div class="alumni-grid">
-        <div class="alumni-group">
-          <p class="alumni-group-title">Graduate Students</p>
-          <p class="note-text">Format: Name, PhD 20XX (current position, institution/company)</p>
-          <p>[Add graduate alumni entry here]</p>
-        </div>
-        <div class="alumni-group">
-          <p class="alumni-group-title">Postdoctoral Scholars</p>
-          <p class="note-text">Format: Dr. Name MM/YYYY - MM/YYYY (PhD: institution)</p>
-          <p>[Add postdoctoral alumni entry here]</p>
-        </div>
-        <div class="alumni-group">
-          <p class="alumni-group-title">Undergraduate Students</p>
-          <p class="note-text">Format: Name, Class of 20XX or Name, Summer Undergraduate Student from institution</p>
-          <p>[Add undergraduate alumni entry here]</p>
-        </div>
-      </div>
-    </section>
-    -->
-
+    <hr>
     <p class="section-title"><strong>Teamwork</strong> leads to proper perfection.<br></p>
     <p>
       <img src="assets/group/redbull-pitstop.gif" alt="Red Bull Formula 1 pit crew changing four tires during a pit stop" class="media-480">
